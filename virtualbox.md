@@ -1,11 +1,12 @@
 # [VirtualBox](https://www.virtualbox.org/)
 Windows 10 Host
 
-# [Debian](https://www.debian.org/) based distros
+# [Debian](https://www.debian.org/) / [Ubuntu](https://ubuntu.com/) based distros
 - [Ubuntu](https://ubuntu.com/)
 - [Linux Mint](https://linuxmint.com/)
 
 # [Arch](https://www.archlinux.org/) based distros
+- [Arch Linux](https://www.archlinux.org/)
 - [Manjaro](https://manjaro.org/)
 - [Arco Linux](https://arcolinux.com/)
 
