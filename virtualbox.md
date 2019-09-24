@@ -5,17 +5,28 @@ Windows 10 Host
 - [Ubuntu](https://ubuntu.com/)
 - [Linux Mint](https://linuxmint.com/)
 
+## VirtualBox Guest Additions for Ubuntu
+
+[How to install Guest Additions for Ubuntu guest](https://askubuntu.com/questions/22743/how-do-i-install-guest-additions-in-a-virtualbox-vm)
+
+Install VirtualBox Guest Additions packages
+
+```
+sudo apt install build-essential linux-headers dkms
+sudo apt install virtualbox-guest-utils virtualbox-guest-x11 virtualbox-guest-dkms
+```
+
 # [Arch](https://www.archlinux.org/) based distros
 - [Arch Linux](https://www.archlinux.org/)
 - [Manjaro](https://manjaro.org/)
 - [Arco Linux](https://arcolinux.com/)
 
 
-## VirtualBox Guest Additions
+## VirtualBox Guest Additions for Arch
 
 Set "Display"->"Graphics Controller" to "VBoxSVGA" for proper multi display and automatic resizing support.
 
-Install [VirtualBox Guest](https://wiki.archlinux.org/index.php/VirtualBox#Installation_steps_for_Arch_Linux_guests) addition packages:
+Install [VirtualBox Guest Additions](https://wiki.archlinux.org/index.php/VirtualBox#Installation_steps_for_Arch_Linux_guests) packages:
 
     sudo pacman -S virtualbox-guest-utils xf86-video-vmware
 
