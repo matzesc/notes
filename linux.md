@@ -20,3 +20,11 @@ See:
 
 - [Xfce keyboard shortcuts](https://defkey.com/xfce-shortcuts)
 - [Termite Terminal shortcuts](https://github.com/thestinger/termite)
+
+## Xfce Desktop
+
+- disable [Display Power Management / Black Screen](https://askubuntu.com/questions/932931/how-do-i-disable-xfce-display-power-management-in-xubuntu-16-04-at-the-command-l)
+
+```
+    xfce4-power-manager -q
+```

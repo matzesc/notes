@@ -26,3 +26,4 @@
 ## GTK+ 3
 - [PyGObject](https://pygobject.readthedocs.io/en/latest/)
 - [The Python GTK+ 3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest/)
+- [Glade - A User Interface Designer](https://glade.gnome.org/)
