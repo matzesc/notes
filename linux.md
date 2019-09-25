@@ -1,6 +1,8 @@
 # Linux related notes
 
+- [Main Page](README.md)
 - [VirtualBox](virtualbox.md) related notes
+- [Python programming](python.md) related notes
 
 ## Bash Command Line
 
@@ -16,5 +18,5 @@ See:
 
 ## Keyboard Shortcuts
 
-- [Xcfe keyboard shortcuts](https://defkey.com/xfce-shortcuts)
+- [Xfce keyboard shortcuts](https://defkey.com/xfce-shortcuts)
 - [Termite Terminal shortcuts](https://github.com/thestinger/termite)

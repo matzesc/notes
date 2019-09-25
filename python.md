@@ -1,0 +1,28 @@
+# Python Programming
+
+- [Main Page](README.md)
+- [VirtualBox](virtualbox.md) related notes
+- [Linux](linux.md) related notes
+
+# Python Documentation & Tutorials
+
+## Official Python 3 Documentation
+- [Python 3 Documentation](https://docs.python.org/3/)
+- [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+- [Logging Cookbook](https://docs.python.org/3/howto/logging-cookbook.html)
+- [Unit testing framework](https://docs.python.org/3/library/unittest.html)
+
+
+# Python GUI Documentation & Tutorials
+
+## Official Python 3 Documentation
+- [Graphic User Interface FAQ](https://docs.python.org/3/faq/gui.html)
+- [Graphical User Interface with Tk](https://docs.python.org/3/library/tk.html)
+- [Python interface for Tcl/Tk](https://docs.python.org/3/library/tkinter.html)
+
+## Tk
+- [TkDocs - Tk Tutorial](https://tkdocs.com/tutorial/)
+
+## GTK+ 3
+- [PyGObject](https://pygobject.readthedocs.io/en/latest/)
+- [The Python GTK+ 3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest/)
