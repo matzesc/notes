@@ -23,3 +23,8 @@ search for word occurrence in specific files:
 See:
 - [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html)
 - [Arch Linux Wiki XDG Base Directory](https://wiki.archlinux.org/index.php/XDG_Base_Directory)
+
+## Keyboard Shortcuts
+
+- [Xcfe keyboard shortcuts](https://defkey.com/xfce-shortcuts)
+- [Termite Terminal shortcuts](https://github.com/thestinger/termite)
