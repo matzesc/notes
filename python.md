@@ -12,6 +12,10 @@
 - [Logging Cookbook](https://docs.python.org/3/howto/logging-cookbook.html)
 - [Unit testing framework](https://docs.python.org/3/library/unittest.html)
 
+## [PyTest](https://pytest.org) Framework
+More popular alternative testing framework to unittest.
+- [Full PyTest documentation](https://pytest.org/en/latest/contents.html)
+- [PyTest Examples](https://pytest.org/en/latest/example/index.html)
 
 # Python GUI Documentation & Tutorials
 
