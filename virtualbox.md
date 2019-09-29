@@ -1,8 +1,6 @@
 # [VirtualBox](https://www.virtualbox.org/) related notes
 
 - [Main Page](README.md)
-- [Linux](linux.md) related notes
-- [Python programming](python.md) related notes
 
 ## VirtualBox Host
 

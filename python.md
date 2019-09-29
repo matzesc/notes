@@ -1,8 +1,6 @@
 # Python Programming
 
 - [Main Page](README.md)
-- [VirtualBox](virtualbox.md) related notes
-- [Linux](linux.md) related notes
 
 # Python Documentation & Tutorials
 

@@ -1,8 +1,6 @@
 # Linux related notes
 
 - [Main Page](README.md)
-- [VirtualBox](virtualbox.md) related notes
-- [Python programming](python.md) related notes
 
 ## Bash Command Line
 
