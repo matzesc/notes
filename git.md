@@ -10,22 +10,34 @@
 Configure your name and email:
 
     git config --global user.name "Your Name"
-    git config --global user.email "your_email@whatever.com"
+    git config --global user.email "your.name@example.com"
 
-## File Line Ending handling
+## File Line Ending Behavior
 
-### Linux Line Ending configuration
+### Linux Line Ending Configuration
 
     git config --global core.autocrlf input
     git config --global core.safecrlf true
 
-### Windows Line Ending configuration
+### Windows Line Ending Configuration
 
     git config --global core.autocrlf true
     git config --global core.safecrlf true
 
-## Using different Emails for Repos
+## Using different Emails for Repositories
 
 Add local configuration to the repo that uses a different email after cloning or creating it:
 
     git config --local user.email "different@email.com"
+
+# Remove Large Files from a Repository
+
+- [Permanently remove files and folders from Git repo](https://dalibornasevic.com/posts/2-permanently-remove-files-and-folders-from-a-git-repository)
+- [Python script to find largest files in repository](https://gist.github.com/nk9/b150542ef72abc7974cb#file-largestfiles-py)
+- [How to find/identify large commits in git history?](https://stackoverflow.com/questions/10622179/how-to-find-identify-large-commits-in-git-history)
+- [Removing and purging files from git history](https://blog.ostermiller.org/git-remove-from-history)
+
+Delete a specific file from GIT history:
+
+    git filter-branch --index-filter 'git rm --cached --ignore-unmatch filename' HEAD
+
