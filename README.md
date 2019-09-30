@@ -4,10 +4,11 @@ This is my start page for personal note taking.
 ## More Notes
 
 Here are the links to other notes:
-- [VirtualBox](virtualbox.md)
+- [C# Programming](csharp.md)
+- [Git](git.md)
 - [Linux](linux.md)
 - [Python programming](python.md)
-- [C# Programming](csharp.md)
+- [VirtualBox](virtualbox.md)
 - [Visual Studio Code](vscode.md)
 
 # Markdown
