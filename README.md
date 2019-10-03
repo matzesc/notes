@@ -21,3 +21,8 @@ Here are the links to other notes:
 - [Understanding Model-View-Controller](https://blog.codinghorror.com/understanding-model-view-controller/)
 - [ASP.NET MVC Patter](https://dotnet.microsoft.com/apps/aspnet/mvc)
 - [Create a web app with ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/?view=aspnetcore-3.0)
+
+
+# Haskell
+
+- [What is Good About Haskell?](https://doisinkidney.com/posts/2019-10-02-what-is-good-about-haskell.html)

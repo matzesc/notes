@@ -16,10 +16,9 @@ Windows 10 Host
 
 Install VirtualBox Guest Additions packages
 
-```
-sudo apt install build-essential linux-headers dkms
-sudo apt install virtualbox-guest-utils virtualbox-guest-x11 virtualbox-guest-dkms
-```
+    sudo apt install build-essential linux-headers dkms
+    sudo apt install virtualbox-guest-utils virtualbox-guest-x11 virtualbox-guest-dkms
+
 
 # [Arch](https://www.archlinux.org/) based distros
 - [Arch Linux](https://www.archlinux.org/)
