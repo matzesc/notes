@@ -41,3 +41,24 @@ Delete a specific file from GIT history:
 
     git filter-branch --index-filter 'git rm --cached --ignore-unmatch filename' HEAD
 
+# Git Usage
+
+## Git Documentation
+- [Git Documentation](https://git-scm.com/doc)
+- [git ready](http://gitready.com/)
+
+## Git Workflows
+
+- [An overview of recommended workflows with Git](https://git-scm.com/docs/gitworkflows)
+- [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+
+### Git Flow Workflow
+
+- [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+- [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+- [GitFlow](https://www.gitflow.com/)
+- [GitFlow on GitHub](https://github.com/nvie/gitflow)
+
+## Git Usage Examples
+- [99% of the Git commands you'll need at work, demonstrated in a single script](https://bitbucket.org/BitPusher16/dotfiles/raw/49a01d929dcaebcca68bbb1859b4ac1aea93b073/refs/git/git_examples.sh)
+
