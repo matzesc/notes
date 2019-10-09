@@ -21,13 +21,18 @@ Install VirtualBox Guest Additions packages
 
 ## Using Shared Folder with Ubuntu guest
 
+- [VirtualBox/SharedFolders](https://help.ubuntu.com/community/VirtualBox/SharedFolders)
 - [Access to shared folders in Virtual Box](https://askubuntu.com/questions/161759/how-to-access-a-shared-folder-in-virtualbox#161883)
 
-add current user to "vboxsf" group:
+add Ubuntu user to "vboxsf" group:
 
     sudo usermod -aG vboxsf <username>
 
 Reboot to make sure the user rights are updated system wide.
+
+Manually mount a shored folder with the name "Shared":
+
+    sudo mount -t vboxsf Shared /media/vboxshared
 
 # [Arch](https://www.archlinux.org/) based distros
 - [Arch Linux](https://www.archlinux.org/)
