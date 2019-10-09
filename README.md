@@ -15,6 +15,7 @@ Here are the links to other notes:
 
 - [Markdown Original Specification](https://daringfireball.net/projects/markdown/)
 - [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [About task lists](https://help.github.com/en/articles/about-task-lists)
 
 # Model-View-Controller (MVC) Design Pattern
 
