@@ -19,6 +19,15 @@ Install VirtualBox Guest Additions packages
     sudo apt install build-essential linux-headers dkms
     sudo apt install virtualbox-guest-utils virtualbox-guest-x11 virtualbox-guest-dkms
 
+## Using Shared Folder with Ubuntu guest
+
+- [Access to shared folders in Virtual Box](https://askubuntu.com/questions/161759/how-to-access-a-shared-folder-in-virtualbox#161883)
+
+add current user to "vboxsf" group:
+
+    sudo usermod -aG vboxsf <username>
+
+Reboot to make sure the user rights are updated system wide.
 
 # [Arch](https://www.archlinux.org/) based distros
 - [Arch Linux](https://www.archlinux.org/)
