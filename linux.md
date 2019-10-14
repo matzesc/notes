@@ -2,11 +2,29 @@
 
 - [Main Page](README.md)
 
-## Bash Command Line
+## Bash Shell
 
 search for word occurrence in specific files:
 
     grep -inH --color "word" `find . -name "*.md" -print`
+
+bash extensions:
+
+- [bash-completion](https://github.com/scop/bash-completion)
+
+### Bash Scripting
+
+- [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/)
+- [Bash scripting cheatsheet](https://devhints.io/bash)
+- [Conditions in bash scripting](https://linuxacademy.com/blog/linux/conditions-in-bash-scripting-if-statements/)
+
+## ZSH Shell
+
+- [Oh My ZSH](https://ohmyz.sh/)
+- [Github - Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh)
+- [Powerlevel9k - theme for ZSH](https://github.com/Powerlevel9k/powerlevel9k)
+- [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
+- [zsh-syntax-highlight](https://github.com/zsh-users/zsh-syntax-highlighting)
 
 ## Default Directories for Dotfiles
 
@@ -26,3 +44,8 @@ See:
 ```
     xfce4-power-manager -q
 ```
+
+## Fonts
+
+- [Powerline fonts](https://github.com/powerline/fonts)
+- [Nerd Fonts](https://www.nerdfonts.com/)
