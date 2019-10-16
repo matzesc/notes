@@ -6,11 +6,12 @@
 
 Windows 10 Host
 
-# [Debian](https://www.debian.org/) / [Ubuntu](https://ubuntu.com/) based distros
+## [Debian](https://www.debian.org/) / [Ubuntu](https://ubuntu.com/) based distros
+
 - [Ubuntu](https://ubuntu.com/)
 - [Linux Mint](https://linuxmint.com/)
 
-## VirtualBox Guest Additions for Ubuntu
+### VirtualBox Guest Additions for Ubuntu
 
 [How to install Guest Additions for Ubuntu guest](https://askubuntu.com/questions/22743/how-do-i-install-guest-additions-in-a-virtualbox-vm)
 
@@ -19,7 +20,7 @@ Install VirtualBox Guest Additions packages
     sudo apt install build-essential linux-headers dkms
     sudo apt install virtualbox-guest-utils virtualbox-guest-x11 virtualbox-guest-dkms
 
-## Using Shared Folder with Ubuntu guest
+### Using Shared Folder with Ubuntu guest
 
 - [VirtualBox/SharedFolders](https://help.ubuntu.com/community/VirtualBox/SharedFolders)
 - [Access to shared folders in Virtual Box](https://askubuntu.com/questions/161759/how-to-access-a-shared-folder-in-virtualbox#161883)
@@ -34,13 +35,13 @@ Manually mount a shored folder with the name "Shared":
 
     sudo mount -t vboxsf Shared /media/vboxshared
 
-# [Arch](https://www.archlinux.org/) based distros
+## [Arch](https://www.archlinux.org/) based distros
+
 - [Arch Linux](https://www.archlinux.org/)
 - [Manjaro](https://manjaro.org/)
 - [Arco Linux](https://arcolinux.com/)
 
-
-## VirtualBox Guest Additions for Arch
+### VirtualBox Guest Additions for Arch
 
 Set "Display"->"Graphics Controller" to "VBoxSVGA" for proper multi display and automatic resizing support.
 
@@ -54,15 +55,13 @@ Find a supported resolution with `vbeinfo` command in GRUB.
 
 Modify `/etc/default/grub`, e.g.:
 
-```
-# The resolution used on graphical terminal
-# note that you can use only modes which your graphic card supports via VBE
-# you can see them in real GRUB with the command `vbeinfo'
-GRUB_GFXMODE=1600x1200x32,1280x1024x32,auto
-
-# Uncomment to allow the kernel use the same resolution used by grub
-GRUB_GFXPAYLOAD_LINUX=keep
-```
+    # The resolution used on graphical terminal
+    # note that you can use only modes which your graphic card supports via VBE
+    # you can see them in real GRUB with the command `vbeinfo'
+    GRUB_GFXMODE=1600x1200x32,1280x1024x32,auto
+    
+    # Uncomment to allow the kernel use the same resolution used by grub
+    GRUB_GFXPAYLOAD_LINUX=keep
 
 update GRUB with
 
