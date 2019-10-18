@@ -4,6 +4,14 @@
 
 ## Altera/Intel
 
+- [Arria V Handbook](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/arria-v/arriav_handbook.pdf)
+
+### Signal Processing
+
+- [AN639: Inferring Stratix V DSP Blocks for FIR Filtering Applications](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/an/an639.pdf)
+
+### Quartus Scripting
+
 - [Command Line Scripting](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/qts/qts_qii52002.pdf)
 - [Tcl Scripting](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/qts/qts_qii52003.pdf)
   - [Quartus II Tcl Examples](https://www.intel.com/content/altera-www/global/en_us/index/support/support-resources/design-examples/design-software/tcl.html)
