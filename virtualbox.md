@@ -1,6 +1,6 @@
 # [VirtualBox](https://www.virtualbox.org/) related notes
 
-- [Main Page](README.md)
+- [Personal Notes](README.md)
 
 ## VirtualBox Host
 

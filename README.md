@@ -3,6 +3,7 @@
 Here are the links to other notes:
 
 - [C# Programming](csharp.md)
+- [FPGA Development](fpgadev.md)
 - [Git](git.md)
 - [Linux](linux.md)
 - [Python programming](python.md)
@@ -28,3 +29,8 @@ Here are the links to other notes:
 ## GTK+ GUI
 
 - [Creating a C/C++ GUI with GTK+](https://www.codeguru.com/cpp/cpp/creating-a-cc-gui-with-gtk.html)
+
+## Tcl scripting
+
+- [Tcl Language](https://www.tcl.tk/about/language.html)
+- [Tcler's Wiki](https://wiki.tcl-lang.org/)

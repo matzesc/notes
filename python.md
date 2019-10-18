@@ -1,6 +1,6 @@
 # Python Programming
 
-- [Main Page](README.md)
+- [Personal Notes](README.md)
 
 ## Python Documentation & Tutorials
 

@@ -1,6 +1,6 @@
 # Visual Studio Code
 
-- [Main Page](README.md)
+- [Personal Notes](README.md)
 
 ## Documentation
 
