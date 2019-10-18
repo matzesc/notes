@@ -18,12 +18,16 @@
   - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
   - [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
   - [Open in Github / Bitbucket / VisualStudio.com](https://marketplace.visualstudio.com/items?itemName=ziyasal.vscode-open-in-github)
+- [markdownlink](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+- [Modern VHDL](https://marketplace.visualstudio.com/items?itemName=rjyoung.vscode-modern-vhdl-support)
 - [Python Extension Pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack)
   - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
   - [MagicPython](https://marketplace.visualstudio.com/items?itemName=magicstack.MagicPython)
   - [Jinja](https://marketplace.visualstudio.com/items?itemName=wholroyd.jinja)
   - [Django](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django)
   - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+- [Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
+- [TCL](https://marketplace.visualstudio.com/items?itemName=rashwell.tcl)
 - [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
 ## Extension Development
