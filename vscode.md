@@ -9,6 +9,7 @@
 
 ## My Installed Extensions
 
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
 - [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
@@ -18,6 +19,7 @@
   - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
   - [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
   - [Open in Github / Bitbucket / VisualStudio.com](https://marketplace.visualstudio.com/items?itemName=ziyasal.vscode-open-in-github)
+- [Git Project Manager](https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager)
 - [markdownlink](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - [Modern VHDL](https://marketplace.visualstudio.com/items?itemName=rjyoung.vscode-modern-vhdl-support)
 - [Python Extension Pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack)
@@ -28,6 +30,7 @@
   - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 - [Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
 - [TCL](https://marketplace.visualstudio.com/items?itemName=rashwell.tcl)
+- [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons)
 - [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
 ## Extension Development
