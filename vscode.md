@@ -38,6 +38,12 @@
 - [Your First Extension](https://code.visualstudio.com/api/get-started/your-first-extension)
 - [Language Extension Overview](https://code.visualstudio.com/api/language-extensions/overview)
 
+### TypeScript
+
+- [TypeScript in Visual Studio Code](https://code.visualstudio.com/Docs/languages/typescript)
+- [TypeScript tutorial in Visual Studio Code](https://code.visualstudio.com/docs/typescript/typescript-tutorial)
+- [Typescript - Javascript that scales.](https://www.typescriptlang.org/index.html)
+
 ### Language Server Extension
 
 - [Language Server Extension Guide](https://code.visualstudio.com/api/language-extensions/language-server-extension-guide)
