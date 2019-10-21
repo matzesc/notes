@@ -4,7 +4,7 @@
 
 ## Bash Shell
 
-search for word occurrence in specific files:
+search for `word` occurrence in specific file type (e.g. `*.md`):
 
     grep -inH --color "word" `find . -name "*.md" -print`
 
@@ -27,6 +27,7 @@ bash extensions:
 - [Conditions in bash scripting](https://linuxacademy.com/blog/linux/conditions-in-bash-scripting-if-statements/)
 - [BASH Frequently Asked Questions](http://mywiki.wooledge.org/BashFAQ)
 - [pushd, popd vs cd, cd- in bash and zsh](https://unix.stackexchange.com/questions/272965/pushd-popd-vs-cd-cd-in-bash-and-zsh)
+- [Bash Shell – Test if File or Directory Exists](https://tecadmin.net/bash-shell-test-if-file-or-directory-exists/)
 
 ## Default Directories for Dotfiles
 

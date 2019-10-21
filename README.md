@@ -16,6 +16,10 @@ Here are the links to other notes:
 - [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [About task lists](https://help.github.com/en/articles/about-task-lists)
 
+## Windows Package Manager
+
+- [Chocolatey - The Package Manager for Windows](https://chocolatey.org/)
+
 ## Model-View-Controller (MVC) Design Pattern
 
 - [Understanding Model-View-Controller](https://blog.codinghorror.com/understanding-model-view-controller/)
