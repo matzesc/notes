@@ -12,13 +12,6 @@ bash extensions:
 
 - [bash-completion](https://github.com/scop/bash-completion)
 
-### Bash Scripting
-
-- [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/)
-- [Bash scripting cheatsheet](https://devhints.io/bash)
-- [Conditions in bash scripting](https://linuxacademy.com/blog/linux/conditions-in-bash-scripting-if-statements/)
-- [BASH Frequently Asked Questions](http://mywiki.wooledge.org/BashFAQ)
-
 ## ZSH Shell
 
 - [Oh My ZSH](https://ohmyz.sh/)
@@ -26,6 +19,14 @@ bash extensions:
 - [Powerlevel9k - theme for ZSH](https://github.com/Powerlevel9k/powerlevel9k)
 - [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - [zsh-syntax-highlight](https://github.com/zsh-users/zsh-syntax-highlighting)
+
+## Shell Scripting
+
+- [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/)
+- [Bash scripting cheatsheet](https://devhints.io/bash)
+- [Conditions in bash scripting](https://linuxacademy.com/blog/linux/conditions-in-bash-scripting-if-statements/)
+- [BASH Frequently Asked Questions](http://mywiki.wooledge.org/BashFAQ)
+- [pushd, popd vs cd, cd- in bash and zsh](https://unix.stackexchange.com/questions/272965/pushd-popd-vs-cd-cd-in-bash-and-zsh)
 
 ## Default Directories for Dotfiles
 
