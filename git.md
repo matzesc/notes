@@ -6,6 +6,7 @@
 
 - [Setting Up Git](https://githowto.com/setup)
 - [Git core.safecrlf different behavior on files with same line endings](https://stackoverflow.com/questions/19978063/git-core-safecrlf-different-behavior-on-files-with-same-line-endings)
+- [git config | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config)
 
 Configure your name and email:
 
@@ -36,6 +37,11 @@ Add local configuration to the repo that uses a different email after cloning or
 
 - [Git Documentation](https://git-scm.com/doc)
 - [git ready](http://gitready.com/)
+- [Git Tutorials and Training | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials)
+
+### Windows Specific Topics
+
+- [Git on Windows switch between Windows Secure Channel and OpenSSL](https://stackoverflow.com/questions/45742607/switch-to-native-windows-secure-channel-library-from-openssl-library-on-wind)
 
 ### Git Workflows
 
