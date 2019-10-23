@@ -20,3 +20,14 @@
   - [TCL Commands and Packages](https://www.intel.com/content/www/us/en/programmable/quartushelp/current/index.htm#tafs/tafs/tafs.htm)
 
 ## Xilinx
+
+
+## ModelSim
+
+Create library folder:
+
+    vlib work
+
+Command to compile VHDL file from command line:
+
+    vcom -work work -2008 -explicit -check_synthesis -lint test.vhd

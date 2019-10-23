@@ -29,7 +29,7 @@
   - [Django](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django)
   - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 - [Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
-- [TCL](https://marketplace.visualstudio.com/items?itemName=rashwell.tcl)
+- [Tcl](https://marketplace.visualstudio.com/items?itemName=bitwisecook.tcl)
 - [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons)
 - [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
