@@ -2,6 +2,7 @@
 
 Here are the links to other notes:
 
+- [5G NR](5G_NR.md)
 - [C# Programming](csharp.md)
 - [FPGA Development](fpgadev.md)
 - [Git](git.md)
