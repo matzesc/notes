@@ -20,6 +20,7 @@
   - [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
   - [Open in Github / Bitbucket / VisualStudio.com](https://marketplace.visualstudio.com/items?itemName=ziyasal.vscode-open-in-github)
 - [Git Project Manager](https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager)
+- [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - [Modern VHDL](https://marketplace.visualstudio.com/items?itemName=rjyoung.vscode-modern-vhdl-support)
 - [Python Extension Pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack)
@@ -28,8 +29,9 @@
   - [Jinja](https://marketplace.visualstudio.com/items?itemName=wholroyd.jinja)
   - [Django](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django)
   - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
-- [Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
+- [Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) (Windows only)
 - [Tcl](https://marketplace.visualstudio.com/items?itemName=bitwisecook.tcl)
+- [Verilog HDL/SystemVerilog](https://marketplace.visualstudio.com/items?itemName=mshr-h.VerilogHDL)
 - [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons)
 - [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
@@ -43,6 +45,14 @@
 - [TypeScript in Visual Studio Code](https://code.visualstudio.com/Docs/languages/typescript)
 - [TypeScript tutorial in Visual Studio Code](https://code.visualstudio.com/docs/typescript/typescript-tutorial)
 - [Typescript - Javascript that scales.](https://www.typescriptlang.org/index.html)
+
+### Language Syntax Parsing
+
+- [VS Code - TextMate grammars](https://code.visualstudio.com/api/language-extensions/syntax-highlight-guide#textmate-grammars)
+  - [TextMate - Language Grammars](https://macromates.com/manual/en/language_grammars)
+- [VS Code - Using YAML to write a grammar](https://code.visualstudio.com/api/language-extensions/syntax-highlight-guide#using-yaml-to-write-a-grammar)
+  - [The Official YAML Web Site](https://yaml.org/)
+    - [YAML Reference Card](https://yaml.org/refcard.html)
 
 ### Language Server Extension
 

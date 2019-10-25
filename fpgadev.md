@@ -5,9 +5,10 @@
 ## Altera/Intel
 
 - [Arria V Handbook](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/arria-v/arriav_handbook.pdf)
+- [Stratix V Handbook](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/stratix-v/stratix5_handbook.pdf)
 - [DSP Builder Version History and Software Requirements](https://www.intel.com/content/www/us/en/programmable/support/support-resources/intellectual-property/dsp/dsp-builder/ips-dsp-version.html)
 
-### Signal Processing
+### Altera Signal Processing
 
 - [AN639: Inferring Stratix V DSP Blocks for FIR Filtering Applications](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/an/an639.pdf)
 
@@ -20,6 +21,11 @@
   - [TCL Commands and Packages](https://www.intel.com/content/www/us/en/programmable/quartushelp/current/index.htm#tafs/tafs/tafs.htm)
 
 ## Xilinx
+
+### Xilinx Signal Processing
+
+- [FIR Compiler](https://www.xilinx.com/support/documentation/ip_documentation/fir_compiler/v7_2/pg149-fir-compiler.pdf)
+- [DDS Compiler](https://www.xilinx.com/support/documentation/ip_documentation/dds_compiler/v6_0/pg141-dds-compiler.pdf) (Direct Digital Synthesizer), also know as NCO (Numeric Controlled Oscillator)
 
 ## ModelSim
 

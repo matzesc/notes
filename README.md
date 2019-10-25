@@ -17,9 +17,10 @@ Here are the links to other notes:
 - [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [About task lists](https://help.github.com/en/articles/about-task-lists)
 
-## Windows Package Manager
+## Windows
 
 - [Chocolatey - The Package Manager for Windows](https://chocolatey.org/)
+- [Web Proxy Auto-Discovery Protocol](https://en.wikipedia.org/wiki/Web_Proxy_Auto-Discovery_Protocol)
 
 ## Model-View-Controller (MVC) Design Pattern
 
@@ -39,3 +40,9 @@ Here are the links to other notes:
 
 - [Tcl Language](https://www.tcl.tk/about/language.html)
 - [Tcler's Wiki](https://wiki.tcl-lang.org/)
+
+## Screen Capture to Animated GIF
+
+- [LICEcap](https://www.cockos.com/licecap/)
+- [ScreenToGIF](https://www.screentogif.com/)
+- [Peek - and animated GIF recorder](https://github.com/phw/peek)
