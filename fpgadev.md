@@ -30,3 +30,8 @@ Create library folder:
 Command to compile VHDL file from command line:
 
     vcom -work work -2008 -explicit -check_synthesis -lint test.vhd
+
+## Doxygen VHDL support
+
+- [Doxygen - Comment blocks in VHDL](http://www.doxygen.nl/manual/docblocks.html#vhdlblocks)
+- [Generate VHDL Doxygen documentation in Sigasi](https://insights.sigasi.com/tech/generate-vhdl-doxygen-documentation-sigasi/)

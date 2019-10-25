@@ -51,7 +51,7 @@ Add local configuration to the repo that uses a different email after cloning or
 #### Git Flow Workflow
 
 - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
-- [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+- [GitFlow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 - [GitFlow](https://www.gitflow.com/)
 - [GitFlow on GitHub](https://github.com/nvie/gitflow)
 
