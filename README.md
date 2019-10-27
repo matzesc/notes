@@ -9,7 +9,7 @@ Here are the links to other notes:
 - [Linux](linux.md)
 - [Python programming](python.md)
 - [VirtualBox](virtualbox.md)
-- [Visual Studio Code](vscode.md)
+- [Visual Studio Code](vscode/README.md)
 
 ## Markdown
 

@@ -1,6 +1,10 @@
 # Visual Studio Code
 
-- [Personal Notes](README.md)
+- Back to [Personal Notes](../README.md)
+
+VS Code notes
+
+- [Symbols & Outline Tree View](outline.md)
 
 ## Documentation
 
