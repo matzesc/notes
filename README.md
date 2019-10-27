@@ -4,12 +4,14 @@ Here are the links to other notes:
 
 - [5G NR](5G_NR.md)
 - [C# Programming](csharp.md)
+- [Chocolatey](choco.md)
 - [FPGA Development](fpgadev.md)
 - [Git](git.md)
 - [Linux](linux.md)
 - [Python programming](python.md)
 - [VirtualBox](virtualbox.md)
 - [Visual Studio Code](vscode/README.md)
+  - [VS Code - Symbols & Outline Tree View](vscode/outline.md)
 
 ## Markdown
 
@@ -19,7 +21,6 @@ Here are the links to other notes:
 
 ## Windows
 
-- [Chocolatey - The Package Manager for Windows](https://chocolatey.org/)
 - [Web Proxy Auto-Discovery Protocol](https://en.wikipedia.org/wiki/Web_Proxy_Auto-Discovery_Protocol)
 
 ## Model-View-Controller (MVC) Design Pattern

@@ -1,7 +1,5 @@
-# Symbols & Outline Tree View
+# VS Code - Symbols & Outline Tree View
 
-- [Outline View - June 2018](https://code.visualstudio.com/updates/v1_25#_outline-view)
-  - [DocumentSymbols](https://code.visualstudio.com/updates/v1_25#_document-symbols)
 - [VS Code - User Interface](https://code.visualstudio.com/docs/getstarted/userinterface)
   - [Go to Symbol](https://code.visualstudio.com/docs/editor/editingevolved#_go-to-symbol)
 - [VS Code Documentation](https://vscode.readthedocs.io/en/latest/)
@@ -11,6 +9,12 @@ source code:
 
 - [VS Code - Github](https://github.com/Microsoft/vscode)
   - [vscode/src/vs/vscode.d.ts](https://github.com/Microsoft/vscode/blob/master/src/vs/vscode.d.ts)
+
+## VS Code History - Outline View
+
+- [Outline View - May 2018](https://code.visualstudio.com/updates/v1_24#_outline-view)
+- [Outline View - June 2018](https://code.visualstudio.com/updates/v1_25#_outline-view)
+  - [DocumentSymbols](https://code.visualstudio.com/updates/v1_25#_document-symbols)
 
 ## VS Code source code for Symbols & Outline View
 
