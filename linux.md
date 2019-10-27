@@ -8,6 +8,8 @@ search for `word` occurrence in specific file type (e.g. `*.md`):
 
     grep -inH --color "word" `find . -name "*.md" -print`
 
+See [ripgrep](https://github.com/BurntSushi/ripgrep) as an alternative to `grep .. | find ..`
+
 bash extensions:
 
 - [bash-completion](https://github.com/scop/bash-completion)
@@ -28,6 +30,15 @@ bash extensions:
 - [BASH Frequently Asked Questions](http://mywiki.wooledge.org/BashFAQ)
 - [pushd, popd vs cd, cd- in bash and zsh](https://unix.stackexchange.com/questions/272965/pushd-popd-vs-cd-cd-in-bash-and-zsh)
 - [Bash Shell – Test if File or Directory Exists](https://tecadmin.net/bash-shell-test-if-file-or-directory-exists/)
+
+## Regular Expression
+
+- [Wikipedia - Regular expression](https://en.wikipedia.org/wiki/Regular_expression)
+- [Regular-Expression.info](https://www.regular-expressions.info/)
+  - [Regular Expressions Tutorial](https://www.regular-expressions.info/tutorial.html)
+- [Online regex tester and debugger](https://regex101.com/)
+- [.NET - Regular Expression Options](https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-options)
+- [ECMAScript / Javascript Regular Expressions Tutorial](http://wikiict.org/spring/spring-cloud-tutorials/ecmascript-javascript-regular-expressions-tutorial/)
 
 ## Default Directories for Dotfiles
 

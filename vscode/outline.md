@@ -27,7 +27,14 @@ source code:
 - [perl-outline](https://marketplace.visualstudio.com/items?itemName=hitode909.perl-outline)
   - [vscode-perl-outline](https://github.com/hitode909/vscode-perl-outline)
     - [vscode-perl-outline/src/documentSymbolProvider.ts](https://github.com/hitode909/vscode-perl-outline/blob/master/src/documentSymbolProvider.ts)
-- [vscode-fortran/src/documentSymbolProvider.ts](https://github.com/Gimly/vscode-fortran/blob/229cddce53a2ea0b93032619efeef26376cd0d2c/src/documentSymbolProvider.ts)
+- [Fortran](https://marketplace.visualstudio.com/items?itemName=Gimly81.fortran)
+  - [vscode-fortran](https://github.com/Gimly/vscode-fortran)
+    - [vscode-fortran/src/documentSymbolProvider.ts](https://github.com/Gimly/vscode-fortran/blob/229cddce53a2ea0b93032619efeef26376cd0d2c/src/documentSymbolProvider.ts)
+
+Alternative Tree View:
+
+- [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+  - [todo-tree](https://github.com/Gruntfuggly/todo-tree)
 
 ## Suggested Extensions
 
