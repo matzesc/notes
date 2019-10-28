@@ -41,3 +41,12 @@
     visualstudio-installer 2.0.1
     visualstudio2017-workload-vctools 1.3.2
     visualstudio2017buildtools 15.9.17.0
+
+diff:
+
+    beyondcompare 4.3.1.24438
+    dotnetcore-sdk 3.0.100
+    KB2533623 1.0.4
+    neovim 0.4.2
+    putty.install 0.73
+    vlc 3.0.8
