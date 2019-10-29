@@ -40,6 +40,29 @@ VS Code notes
 - [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons)
 - [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
+## VS Code Configuration
+
+These settings are configured in the `settings.json` file.
+
+add [Vertical rulers in Visual Studio Code?](https://stackoverflow.com/questions/29968499/vertical-rulers-in-visual-studio-code)
+
+    "editor.rulers": [80,120],
+
+add [File associations in vscode](https://stackoverflow.com/questions/30369258/file-associations-in-vscode#30421000)
+for Alter/Intel Quartus files (.qsf, .qpf) and constraint files (.sdc, .xdc) for Alter/Intel and Xilinx.
+
+    "files.associations": {
+        "*.qsf" : "tcl",
+        "*.qpf" : "tcl",
+        "*.sdc" : "tcl",
+        "*.xdc" : "tcl"
+    },
+
+configure some paths for extensions
+
+    "matlab.mlintpath": "c:\\<Matlab Path>\\bin\\win64\\mlint.exe",
+    "markdown-pdf.executablePath" : "C:\\<Chrome Path>\\chrome.exe"
+
 ## Extension Development
 
 - [Your First Extension](https://code.visualstudio.com/api/get-started/your-first-extension)

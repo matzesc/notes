@@ -12,6 +12,7 @@ Here are the links to other notes:
 - [VirtualBox](virtualbox.md)
 - [Visual Studio Code](vscode/README.md)
   - [VS Code - Symbols & Outline Tree View](vscode/outline.md)
+- [Windows](windows.md)
 
 ## Markdown
 
