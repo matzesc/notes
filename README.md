@@ -19,10 +19,6 @@ Here are the links to other notes:
 - [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [About task lists](https://help.github.com/en/articles/about-task-lists)
 
-## Windows
-
-- [Web Proxy Auto-Discovery Protocol](https://en.wikipedia.org/wiki/Web_Proxy_Auto-Discovery_Protocol)
-
 ## Model-View-Controller (MVC) Design Pattern
 
 - [Understanding Model-View-Controller](https://blog.codinghorror.com/understanding-model-view-controller/)

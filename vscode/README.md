@@ -26,6 +26,7 @@ VS Code notes
 - [Git Project Manager](https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager)
 - [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+- [Matlab](https://marketplace.visualstudio.com/items?itemName=Gimly81.matlab)
 - [Modern VHDL](https://marketplace.visualstudio.com/items?itemName=rjyoung.vscode-modern-vhdl-support)
 - [Python Extension Pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack)
   - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
