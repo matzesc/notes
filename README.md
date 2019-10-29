@@ -43,4 +43,4 @@ Here are the links to other notes:
 
 - [LICEcap](https://www.cockos.com/licecap/)
 - [ScreenToGIF](https://www.screentogif.com/)
-- [Peek - and animated GIF recorder](https://github.com/phw/peek)
+- [Peek - an animated GIF recorder](https://github.com/phw/peek)
