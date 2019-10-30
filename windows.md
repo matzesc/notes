@@ -4,29 +4,45 @@
 
 ## Customization
 
-- [Where to Find the Windows Wallpaper Location on Your PC](https://www.techjunkie.com/windows-wallpaper-location/)
+### [Where to Find the Windows Wallpaper Location on Your PC](https://www.techjunkie.com/windows-wallpaper-location/)
 
-The default wallpapers are store here:
+The default wallpapers are stored here:
 
     %WINDIR%\Web\
 
-- [How to Change Desktop Icon Horizontal and Vertical Spacing in Windows 10](https://www.tenforums.com/tutorials/16941-change-desktop-icon-spacing-windows-10-a.html)
+---
 
-Icon spacing in Windows 10 can be change in the registry:
+### [How to Change Desktop Icon Horizontal and Vertical Spacing in Windows 10](https://www.tenforums.com/tutorials/16941-change-desktop-icon-spacing-windows-10-a.html)
+
+Icon spacing in Windows 10 can be change at this registry entry:
 
     HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics
 
-Change the `IconSpacing` entry to modify horizontal spacing. The default value is `-1125` a setting of `-1710` increased the spacing between icons sufficiently. Changes only apply after logging out and in again.
+Change the `IconSpacing` entry to modify horizontal spacing. The default value is `-1125` a setting of `-1710` increases the spacing between icons sufficiently. Changes only apply after logging out and in again.
 
-- [Items unpinned from taskbar are back after restart/sign out on Windows 10](https://superuser.com/questions/1251656/items-unpinned-from-taskbar-are-back-after-restart-sign-out-on-windows-10)
+---
 
-There is a XML file in the user profile that restores pins on the task bar and start menu:
+### [Items unpinned from taskbar are back after restart/sign out on Windows 10](https://superuser.com/questions/1251656/items-unpinned-from-taskbar-are-back-after-restart-sign-out-on-windows-10)
+
+Check the XML file in the user profile that restores pins on the task bar and start menu:
 
     %LOCALAPPDATA%\Microsoft\Windows\Shell\LayoutModification.xml
 
+You may need to make this file `Read Only` after modifications
+
+---
+
+### [TortoiseGit not showing icon overlays](https://stackoverflow.com/questions/25156238/tortoisegit-not-showing-icon-overlays)
+
+Check this registry entry:
+
+    HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers
+
+At this point Windows 10 is limited to the top 15 icon overlays.
+
 ## Office 365
 
-- [Language Accessory Pack for Office](https://support.office.com/en-us/article/Language-Accessory-Pack-for-Office-82ee1236-0f9a-45ee-9c72-05b026ee809f)
+Download [Language Accessory Pack for Office](https://support.office.com/en-us/article/Language-Accessory-Pack-for-Office-82ee1236-0f9a-45ee-9c72-05b026ee809f) if you want spelling and grammar proofing for more then one language. You also want to download the default language and install it again after other languages to get the default language back for some of the Office icons in the Start Menu.
 
 ## Proxy Settings
 
