@@ -41,3 +41,9 @@ Command to compile VHDL file from command line:
 
 - [Doxygen - Comment blocks in VHDL](http://www.doxygen.nl/manual/docblocks.html#vhdlblocks)
 - [Generate VHDL Doxygen documentation in Sigasi](https://insights.sigasi.com/tech/generate-vhdl-doxygen-documentation-sigasi/)
+
+## Systolic FIR Filters
+
+- H. T. Kung, "[Why Systolic Architecture?](https://www.eecs.harvard.edu/~htk/publication/1982-kung-why-systolic-architecture.pdf)", *IEEE Computers Magazine*, Vol. 15, No 1, pp. 37-46, Jan. 1982.
+- [Pipelined Direct Form FIR Versus the Transposed Structure](https://www.allaboutcircuits.com/technical-articles/pipelined-direct-form-fir-versus-the-transposed-structure/)
+- [Systolic FIR Filter Based FPGA](https://www.design-reuse.com/articles/19106/systolic-fir-filter-based-fpga.html)
