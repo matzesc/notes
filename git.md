@@ -31,6 +31,11 @@ Add local configuration to the repo that uses a different email after cloning or
 
     git config --local user.email "different@email.com"
 
+### Fixing Configuration Problems
+
+- [How can I remove an entry in global configuration with git config?](https://stackoverflow.com/questions/11868447/how-can-i-remove-an-entry-in-global-configuration-with-git-config)
+- [Trying to commit Git files but getting :: fatal: LF would be replaced by CRLF in \<some file in repo\>](https://stackoverflow.com/questions/15467507/trying-to-commit-git-files-but-getting-fatal-lf-would-be-replaced-by-crlf-in)
+
 ## Git Usage
 
 ### Git Documentation

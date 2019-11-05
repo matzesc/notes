@@ -13,6 +13,11 @@
 - [How Many vRAN Initiatives Does it Take to Open the Radio Network?](https://www.sdxcentral.com/articles/opinion-editorial/many-vran-initiatives-take-open-radio-network/2018/02/)
 - [Keysight, AT&T, Anokiwave, Ball Corporation and Xilinx Achieve Key Industry Milestone, Accelerating Development of Open RAN 5G Networks](https://about.keysight.com/en/newsroom/pr/2019/14feb-nr19011.shtml)
 
+## Radio over Ethernet
+
+- [P1914.1 - IEEE Draft Standard for Packet-based Fronthaul Transport Networks](https://standards.ieee.org/project/1914_1.html)
+
 ## FPGA IP
 
 - [Flexible xHaul Gateway Supports Converged Access Network for Cost-Optimized 5G Infrastructure](https://forums.xilinx.com/t5/Adaptable-Advantage-Blog/Flexible-xHaul-Gateway-Supports-Converged-Access-Network-for/ba-p/952216)
+- [Radio over Ethernet (RoE) Subsystem](https://www.xilinx.com/products/intellectual-property/ef-di-roe-framer.html)
