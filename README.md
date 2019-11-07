@@ -14,6 +14,10 @@ Here are the links to other notes:
   - [VS Code - Symbols & Outline Tree View](vscode/outline.md)
 - [Windows](windows.md)
 
+## Technology
+
+- [ShareTechnote](https://www.sharetechnote.com/)
+
 ## Markdown
 
 - [Markdown Original Specification](https://daringfireball.net/projects/markdown/)

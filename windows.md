@@ -40,6 +40,11 @@ Check this registry entry:
 
 At this point Windows 10 is limited to the top 15 icon overlays.
 
+## Power Shell
+
+- [How to Set PowerShell Script Execution Policy in Windows 10](https://www.tenforums.com/tutorials/54585-change-powershell-script-execution-policy-windows-10-a.html)
+- [About Execution Policies](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6)
+
 ## Office 365
 
 Download [Language Accessory Pack for Office](https://support.office.com/en-us/article/Language-Accessory-Pack-for-Office-82ee1236-0f9a-45ee-9c72-05b026ee809f) if you want spelling and grammar proofing for more then one language. You also want to download the default language and install it again after other languages to get the default language back for some of the Office icons in the Start Menu.

@@ -34,6 +34,8 @@ bash extensions:
 ## Command Line Tools
 
 - [An Illustrated Guide to Some Useful Command Line Tools](https://www.wezm.net/technical/2019/10/useful-command-line-tools/)
+- [Linux man pages](https://linux.die.net/man/)
+- [Man Pages](https://www.mankier.com/)
 
 ## Regular Expression
 

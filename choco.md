@@ -5,8 +5,6 @@
 ## Chocolatey Website
 
 - [Chocolatey - The Package Manager for Windows](https://chocolatey.org/)
-  - [How to Set PowerShell Script Execution Policy in Windows 10](https://www.tenforums.com/tutorials/54585-change-powershell-script-execution-policy-windows-10-a.html)
-  - [About Execution Policies](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6)
 
 ## My installed packages
 
