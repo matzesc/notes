@@ -1,5 +1,7 @@
 # 5th Generation New Radio (5G NR)
 
+- [Personal Notes](README.md)
+
 ## ETSI & 3GPP Release 15
 
 - [3GPP Specification series 38 (5G NR)](https://www.3gpp.org/DynaReport/38-series.htm)
@@ -26,10 +28,10 @@ Articles:
 
 ## Radio over Ethernet (IEEE 1914)
 
-- [P1914.1 - IEEE Draft Standard for Packet-based Fronthaul Transport Networks](https://standards.ieee.org/project/1914_1.html)
+- [IEEE P1914.1 - IEEE Draft Standard for Packet-based Fronthaul Transport Networks](https://standards.ieee.org/project/1914_1.html)
 - [IEEE 1914.3-2018 - IEEE Standard for Radio over Ethernet Encapsulations and Mappings](https://standards.ieee.org/content/ieee-standards/en/standard/1914_3-2018.html)
 
 ## FPGA IP
 
-- [Flexible xHaul Gateway Supports Converged Access Network for Cost-Optimized 5G Infrastructure](https://forums.xilinx.com/t5/Adaptable-Advantage-Blog/Flexible-xHaul-Gateway-Supports-Converged-Access-Network-for/ba-p/952216)
-- [Radio over Ethernet (RoE) Subsystem](https://www.xilinx.com/products/intellectual-property/ef-di-roe-framer.html)
+- [Xilinx - Flexible xHaul Gateway Supports Converged Access Network for Cost-Optimized 5G Infrastructure](https://forums.xilinx.com/t5/Adaptable-Advantage-Blog/Flexible-xHaul-Gateway-Supports-Converged-Access-Network-for/ba-p/952216)
+- [Xilinx - Radio over Ethernet (RoE) Subsystem](https://www.xilinx.com/products/intellectual-property/ef-di-roe-framer.html)
