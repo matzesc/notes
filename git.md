@@ -31,6 +31,19 @@ Add local configuration to the repo that uses a different email after cloning or
 
     git config --local user.email "different@email.com"
 
+### Changing Remote's URL
+
+- [Changing a remote's URL](https://help.github.com/en/github/using-git/changing-a-remotes-url)
+- [How to change the URI (URL) for a remote Git repository?](https://stackoverflow.com/questions/2432764/how-to-change-the-uri-url-for-a-remote-git-repository)
+
+check current URL:
+
+    git remote -v
+
+update to new URL
+
+    git remote set-url origin new.git.url/here
+
 ### Fixing Configuration Problems
 
 - [How can I remove an entry in global configuration with git config?](https://stackoverflow.com/questions/11868447/how-can-i-remove-an-entry-in-global-configuration-with-git-config)
