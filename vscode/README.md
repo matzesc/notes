@@ -72,7 +72,8 @@ configure some paths for extensions
 
 - [TypeScript in Visual Studio Code](https://code.visualstudio.com/Docs/languages/typescript)
 - [TypeScript tutorial in Visual Studio Code](https://code.visualstudio.com/docs/typescript/typescript-tutorial)
-- [Typescript - Javascript that scales.](https://www.typescriptlang.org/index.html)
+- [Typescript - Javascript that scales.](https://www.typescriptlang.org/)
+- [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
 
 ### Language Syntax Parsing
 

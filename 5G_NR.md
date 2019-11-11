@@ -1,14 +1,16 @@
 # 5th Generation New Radio (5G NR)
 
-- [Personal Notes](README.md)
+- Back to [Personal Notes](README.md)
 
 ## ETSI & 3GPP Release 15
 
 - [3GPP Specification series 38 (5G NR)](https://www.3gpp.org/DynaReport/38-series.htm)
-- [ETSI TS 138 104 v15.3.0 - 5G NR Base Station (BS) radio transmission and reception](https://www.etsi.org/deliver/etsi_ts/138100_138199/138104/15.03.00_60/ts_138104v150300p.pdf)
-  - Bandwidth is defined in Section 5.3.2
+- [ETSI TS 138 104 V15.7.0 - 5G NR Base Station (BS) radio transmission and reception](https://www.etsi.org/deliver/etsi_ts/138100_138199/138104/15.07.00_60/ts_138104v150700p.pdf)
+  - Section 5.3.2 - Transmission bandwidth configuration
+- [ETSI TS 138 211 V15.7.0 - 5G NR Physical channels and modulation](https://www.etsi.org/deliver/etsi_ts/138200_138299/138211/15.07.00_60/ts_138211v150700p.pdf)
+  - Section 7.4.3 - SS/PBCH block
 
-## ORAN (Open Radio Access Network)
+## O-RAN (Open Radio Access Network)
 
 - [O-RAN Alliance](https://www.o-ran.org/)
   - [O-RAN Specification](https://www.o-ran.org/specifications)

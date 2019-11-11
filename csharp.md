@@ -1,6 +1,6 @@
 # C# & .NET Programming
 
-- [Main Page](README.md)
+- Back to [Personal Notes](README.md)
 
 ## C# Documentation & Tutorials
 

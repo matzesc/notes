@@ -1,6 +1,6 @@
 # FPGA Development
 
-- [Personal Notes](README.md)
+- Back to [Personal Notes](README.md)
 
 ## Altera/Intel
 

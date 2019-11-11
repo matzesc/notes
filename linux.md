@@ -1,6 +1,6 @@
 # Linux related notes
 
-- [Personal Notes](README.md)
+- Back to [Personal Notes](README.md)
 
 ## Bash Shell
 

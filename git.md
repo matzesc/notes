@@ -1,6 +1,6 @@
 # GIT related notes
 
-- [Personal Notes](README.md)
+- Back to [Personal Notes](README.md)
 
 ## Configure Git
 
@@ -80,3 +80,16 @@ Delete a specific file from GIT history:
 ### Change Author Email Address
 
 - [Changing author info](https://help.github.com/en/articles/changing-author-info)
+
+## Git Web-Services
+
+### Git Repository Hosting
+
+- [Github](https://github.com/)
+- [Gitlab](https://gitlab.com/)
+- [Bitbucket](https://bitbucket.org/)
+
+### Other Git Related Services
+
+- [Travis CI](https://travis-ci.org/)
+- [GitBook](https://www.gitbook.com/)
