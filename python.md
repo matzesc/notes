@@ -35,3 +35,11 @@ More popular alternative testing framework to unittest.
 - [PyGObject](https://pygobject.readthedocs.io/en/latest/)
 - [The Python GTK+ 3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest/)
 - [Glade - A User Interface Designer](https://glade.gnome.org/)
+
+## Python Libraries
+
+- [Python Data Analysis Library - pandas](https://pandas.pydata.org/)
+  - [Tutorial Using Excel with Python and Pandas](https://www.dataquest.io/blog/excel-and-pandas/)
+  - [How to Import an Excel File into Python using pandas](https://datatofish.com/read_excel/)
+  - [Loading A CSV Into pandas](https://chrisalbon.com/python/data_wrangling/pandas_dataframe_importing_csv/)
+  - [Python Pandas Tutorial](https://www.tutorialspoint.com/python_pandas/index.htm)
