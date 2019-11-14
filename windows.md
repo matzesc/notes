@@ -52,3 +52,14 @@ Download [Language Accessory Pack for Office](https://support.office.com/en-us/a
 ## Proxy Settings
 
 - [Web Proxy Auto-Discovery Protocol](https://en.wikipedia.org/wiki/Web_Proxy_Auto-Discovery_Protocol)
+
+## Windows Subsystem for Linux (WSL)
+
+- [LxRunOffline](https://github.com/DDoSolitary/LxRunOffline)
+
+### ArchLinux on WSL
+
+- [ArchLinux on the Windows Subsystem for Linux](https://davidtw.co/writings/2017/archlinux-on-the-windows-subsystem-for-linux)
+- [Getting Crazy with Windows Subsystem for Linux](https://www.brianketelsen.com/getting-crazy-with-windows-subsystem-for-linux/)
+- [Deploy Arch Linux on Windows Subsystem for Linux “WSL”](https://medium.com/@mudrii/deploy-arch-linux-on-windows-subsystem-for-linux-wsl-a7e4cdf78c80)
+- [ArchWSL](https://github.com/yuk7/ArchWSL)

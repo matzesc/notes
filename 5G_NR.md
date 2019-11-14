@@ -7,8 +7,11 @@
 - [3GPP Specification series 38 (5G NR)](https://www.3gpp.org/DynaReport/38-series.htm)
 - [ETSI TS 138 104 V15.7.0 - 5G NR Base Station (BS) radio transmission and reception](https://www.etsi.org/deliver/etsi_ts/138100_138199/138104/15.07.00_60/ts_138104v150700p.pdf)
   - Section 5.3.2 - Transmission bandwidth configuration
+  - Section 5.4.3 - Synchronization raster
 - [ETSI TS 138 211 V15.7.0 - 5G NR Physical channels and modulation](https://www.etsi.org/deliver/etsi_ts/138200_138299/138211/15.07.00_60/ts_138211v150700p.pdf)
   - Section 7.4.3 - SS/PBCH block
+- [ETSI TS 138 213 V15.7.0 - 5G NR Physical layer procedures for control](https://www.etsi.org/deliver/etsi_ts/138200_138299/138213/15.07.00_60/ts_138213v150700p.pdf)
+  - Section 4.1 - Cell search
 
 ## O-RAN (Open Radio Access Network)
 
