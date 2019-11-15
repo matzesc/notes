@@ -43,7 +43,8 @@ Manually mount a shored folder with the name "Shared":
 
 ### VirtualBox Guest Additions for Arch
 
-Set "Display"->"Graphics Controller" to "VBoxSVGA" for proper multi display and automatic resizing support.
+Set "Display"->"Graphics Controller" to "VBoxSVGA" for proper multi display and
+automatic resizing support.
 
 Install [VirtualBox Guest Additions](https://wiki.archlinux.org/index.php/VirtualBox#Installation_steps_for_Arch_Linux_guests) packages:
 
@@ -75,7 +76,8 @@ Find a supported resolution with
 
     xrandr -q
 
-Modify `/etc/lightdm/lightdm.conf` and find `display-setup-script` location, e.g.:
+Modify `/etc/lightdm/lightdm.conf` and find `display-setup-script` location,
+e.g.:
 
     display-setup-script=xrandr --output Virtual1 --mode 1920x1200
 
