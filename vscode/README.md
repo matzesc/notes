@@ -44,12 +44,12 @@ VS Code notes
 
 These settings are configured in the `settings.json` file.
 
-add [Vertical rulers in Visual Studio Code?](https://stackoverflow.com/questions/29968499/vertical-rulers-in-visual-studio-code)
+add [Vertical rulers in Visual Studio Code?][Cfg1]
 
     "editor.rulers": [80,120],
 
-add [File associations in vscode](https://stackoverflow.com/questions/30369258/file-associations-in-vscode#30421000)
-for Alter/Intel Quartus files (.qsf, .qpf) and constraint files (.sdc, .xdc) for Alter/Intel and Xilinx.
+add [File associations in vscode][Cfg2] for Alter/Intel Quartus files (.qsf,
+.qpf) and constraint files (.sdc, .xdc) for Alter/Intel and Xilinx.
 
     "files.associations": {
         "*.qsf" : "tcl",
@@ -62,6 +62,9 @@ configure some paths for extensions
 
     "matlab.mlintpath": "c:\\<Matlab Path>\\bin\\win64\\mlint.exe",
     "markdown-pdf.executablePath" : "C:\\<Chrome Path>\\chrome.exe"
+
+[Cfg1]: https://stackoverflow.com/questions/29968499/vertical-rulers-in-visual-studio-code
+[Cfg2]: https://stackoverflow.com/questions/30369258/file-associations-in-vscode#30421000
 
 ## Extension Development
 
