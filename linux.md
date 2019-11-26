@@ -37,6 +37,15 @@ bash extensions:
 - [Linux man pages](https://linux.die.net/man/)
 - [Man Pages](https://www.mankier.com/)
 
+### Highlight Matches
+
+- [Colorized grep — viewing the entire file with highlighted matches](https://stackoverflow.com/questions/981601/colorized-grep-viewing-the-entire-file-with-highlighted-matches)
+- [Highlight text similar to grep, but don't filter out text](https://stackoverflow.com/questions/7393906/highlight-text-similar-to-grep-but-dont-filter-out-text)
+
+This highlights `pattern1` and `pattern2` in file `file_name`:
+
+    grep --color -E '^|pattern1|pattern2' file_name
+
 ## Regular Expression
 
 - [Wikipedia - Regular expression](https://en.wikipedia.org/wiki/Regular_expression)

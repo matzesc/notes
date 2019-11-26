@@ -48,3 +48,8 @@ Here are the links to other notes:
 - [LICEcap](https://www.cockos.com/licecap/)
 - [ScreenToGIF](https://www.screentogif.com/)
 - [Peek - an animated GIF recorder](https://github.com/phw/peek)
+
+## Other Topics
+
+- [Introducing our Startup Handbook](https://versionone.vc/startup-handbook/)
+- [Reverse Engineering for Beginners](https://beginners.re/RE4B-EN.pdf)

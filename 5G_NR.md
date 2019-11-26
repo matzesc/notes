@@ -18,6 +18,11 @@
 [138_211]: https://www.etsi.org/deliver/etsi_ts/138200_138299/138211/15.07.00_60/ts_138211v150700p.pdf
 [138_213]: https://www.etsi.org/deliver/etsi_ts/138200_138299/138213/15.07.00_60/ts_138213v150700p.pdf
 
+### Other 5G Documentation
+
+- [Rohde & Schwarz - 5G New Radio eBook](https://gloris.rohde-schwarz.com/ebooks/5G)
+- [5G Mobile Networks: A Systems Approach](https://5g.systemsapproach.org/)
+
 ## O-RAN (Open Radio Access Network)
 
 - [O-RAN Alliance](https://www.o-ran.org/)
