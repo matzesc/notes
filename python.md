@@ -36,6 +36,21 @@ More popular alternative testing framework to unittest.
 - [The Python GTK+ 3 Tutorial](https://python-gtk-3-tutorial.readthedocs.io/en/latest/)
 - [Glade - A User Interface Designer](https://glade.gnome.org/)
 
+## FTDI chip support
+
+- [Using FTDI Chips With Python](https://hackaday.com/2018/12/19/using-ftdi-chips-with-python/)
+- [Programming FTDI devices in Python](https://iosoft.blog/ftdi-python/)
+
+### FTDI Python Libraries
+
+- [ftd2xx](https://pypi.org/project/ftd2xx/)
+  - [Github - FTD2XX](https://github.com/snmishra/ftd2xx)
+- [pylibftdi](https://bitbucket.org/codedstructure/pylibftdi)
+- [PyFtdi](https://github.com/eblot/pyftdi)
+  - [PyFtdi Documentation](https://eblot.github.io/pyftdi/)
+- [pyusb](https://pypi.org/project/pyusb/)
+  - [Github - pyusb](https://github.com/pyusb/pyusb)
+
 ## Python Libraries
 
 - [Python Data Analysis Library - pandas](https://pandas.pydata.org/)
