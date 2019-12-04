@@ -68,6 +68,12 @@ language back for some of the Office icons in the Start Menu.
 
 [Lang]: https://support.office.com/en-us/article/Language-Accessory-Pack-for-Office-82ee1236-0f9a-45ee-9c72-05b026ee809f
 
+### Word Issues
+
+- [Blacked out numbering in MS Word][Word]
+
+[Word]: https://answers.microsoft.com/en-us/office/forum/office_2016-word/blacked-out-numbering-in-ms-word-2016/d2ec88d5-fcf6-41b6-bf05-487724585f51
+
 ## Proxy Settings
 
 - [Web Proxy Auto-Discovery Protocol](https://en.wikipedia.org/wiki/Web_Proxy_Auto-Discovery_Protocol)
