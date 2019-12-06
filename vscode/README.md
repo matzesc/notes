@@ -71,6 +71,12 @@ configure some paths for extensions
 - [Your First Extension](https://code.visualstudio.com/api/get-started/your-first-extension)
 - [Language Extension Overview](https://code.visualstudio.com/api/language-extensions/overview)
 
+### JavaScript
+
+- [W3Schools Online Web Tutorials](https://www.w3schools.com/)
+  - [JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
+- [The Modern JavaScript Tutorial](https://javascript.info/)
+
 ### TypeScript
 
 - [TypeScript in Visual Studio Code](https://code.visualstudio.com/Docs/languages/typescript)
