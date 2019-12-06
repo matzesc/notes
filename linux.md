@@ -36,6 +36,7 @@ bash extensions:
 - [An Illustrated Guide to Some Useful Command Line Tools](https://www.wezm.net/technical/2019/10/useful-command-line-tools/)
 - [Linux man pages](https://linux.die.net/man/)
 - [Man Pages](https://www.mankier.com/)
+- [5 Command Line Tools to Break Your Dependence on the GUI](https://www.putorius.net/5-cool-command-line-tools.html)
 
 ### Highlight Matches
 

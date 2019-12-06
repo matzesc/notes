@@ -53,3 +53,4 @@ Here are the links to other notes:
 
 - [Introducing our Startup Handbook](https://versionone.vc/startup-handbook/)
 - [Reverse Engineering for Beginners](https://beginners.re/RE4B-EN.pdf)
+- [A searchable list of the best self hosted software](https://selfhostedsource.tech/self-hosted/all)
