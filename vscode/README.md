@@ -70,6 +70,7 @@ configure some paths for extensions
 
 - [Your First Extension](https://code.visualstudio.com/api/get-started/your-first-extension)
 - [Language Extension Overview](https://code.visualstudio.com/api/language-extensions/overview)
+- [Testing your VS Code extensions](https://vscode.rocks/testing/)
 
 ### JavaScript
 
@@ -83,6 +84,10 @@ configure some paths for extensions
 - [TypeScript tutorial in Visual Studio Code](https://code.visualstudio.com/docs/typescript/typescript-tutorial)
 - [Typescript - Javascript that scales.](https://www.typescriptlang.org/)
 - [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
+
+## Node.js
+
+- [How to Create and Publish Your First Node.js Module](https://codeburst.io/how-to-create-and-publish-your-first-node-js-module-444e7585b738)
 
 ### Language Syntax Parsing
 
