@@ -53,4 +53,7 @@ Here are the links to other notes:
 
 - [Introducing our Startup Handbook](https://versionone.vc/startup-handbook/)
 - [Reverse Engineering for Beginners](https://beginners.re/RE4B-EN.pdf)
+- [Your Debugger Sucks](https://robert.ocallahan.org/2019/11/your-debugger-sucks.html)
+  - [what rr does](https://rr-project.org/)
+  - [Pernosco - Overview](https://pernos.co/about/overview/)
 - [A searchable list of the best self hosted software](https://selfhostedsource.tech/self-hosted/all)
