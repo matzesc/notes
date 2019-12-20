@@ -17,6 +17,8 @@ Here are the links to other notes:
 ## Technology
 
 - [ShareTechnote](https://www.sharetechnote.com/)
+- [Techplayon - Explore, Learn and Share](http://www.techplayon.com/)
+- [RF Wireless World](https://www.rfwireless-world.com/)
 
 ## Markdown
 
