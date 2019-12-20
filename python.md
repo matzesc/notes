@@ -18,6 +18,10 @@ More popular alternative testing framework to unittest.
 - [Full PyTest documentation](https://pytest.org/en/latest/contents.html)
 - [PyTest Examples](https://pytest.org/en/latest/example/index.html)
 
+### Python Tutorials & Tips
+
+- [How To Make Python Wait](https://blog.miguelgrinberg.com/post/how-to-make-python-wait)
+
 ## Python GUI Documentation & Tutorials
 
 ### Official Python 3 GUI Documentation

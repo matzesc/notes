@@ -77,6 +77,8 @@ configure some paths for extensions
 - [W3Schools Online Web Tutorials](https://www.w3schools.com/)
   - [JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
+- [JavaScrip - Learn web development](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+  - [Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
 
 ### TypeScript
 
