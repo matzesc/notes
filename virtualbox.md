@@ -31,9 +31,18 @@ add Ubuntu user to "vboxsf" group:
 
 Reboot to make sure the user rights are updated system wide.
 
-Manually mount a shored folder with the name "Shared":
+Manually mount a shared folder with the name "Shared":
 
     sudo mount -t vboxsf Shared /media/vboxshared
+
+### Disable Automatic Updates
+
+- [How To Stop Installing Updates Automatically On Ubuntu Or Debian (Unattended Upgrades)](https://www.linuxuprising.com/2019/07/how-to-stop-installing-updates.html)
+- [How to Enable/Disable Unattended Upgrades in Ubuntu 16.04](https://linoxide.com/ubuntu-how-to/enable-disable-unattended-upgrades-ubuntu-16-04/)
+
+disable automatic updates:
+
+    sudo dpkg-reconfigure unattended-upgrades
 
 ## [Arch](https://www.archlinux.org/) based distros
 
