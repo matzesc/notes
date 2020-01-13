@@ -44,6 +44,26 @@ disable automatic updates:
 
     sudo dpkg-reconfigure unattended-upgrades
 
+### Disable Boot Splash Screen and Show Boot Text
+
+- [Ask Ubuntu - How do I disable the boot splash screen, and only show kernel and boot text instead?](https://askubuntu.com/questions/33416/how-do-i-disable-the-boot-splash-screen-and-only-show-kernel-and-boot-text-inst)
+- [Disable Purple Splash Screen on Boot in Ubuntu 18.04 / Higher](http://ubuntuhandbook.org/index.php/2019/06/disable-purple-splash-screen-boot-ubuntu-18-04-higher/)
+
+edit grub configuration
+
+    sudo vim /etc/default/grub
+
+find line with `GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"` and remove `quite`
+and `splash`. Update Grub with
+
+    sudo update-grub
+
+### Enable Grub Menu and Change Log Level
+
+- [Ask Ubuntu - How to get to the GRUB menu at boot-time?](https://askubuntu.com/questions/16042/how-to-get-to-the-grub-menu-at-boot-time)
+- [CentOS / RHEL 7 : How to change the verbosity of debug logs during booting](https://www.thegeekdiary.com/centos-rhel-7-how-to-change-the-verbosity-of-debug-logs-during-booting/)
+- [Introduction to the Linux kernel log levels](https://linuxconfig.org/introduction-to-the-linux-kernel-log-levels)
+
 ## [Arch](https://www.archlinux.org/) based distros
 
 - [Arch Linux](https://www.archlinux.org/)
