@@ -53,7 +53,7 @@ edit grub configuration
 
     sudo vim /etc/default/grub
 
-find line with `GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"` and remove `quite`
+find line with `GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"` and remove `quiet`
 and `splash`. Update Grub with
 
     sudo update-grub
@@ -63,6 +63,20 @@ and `splash`. Update Grub with
 - [Ask Ubuntu - How to get to the GRUB menu at boot-time?](https://askubuntu.com/questions/16042/how-to-get-to-the-grub-menu-at-boot-time)
 - [CentOS / RHEL 7 : How to change the verbosity of debug logs during booting](https://www.thegeekdiary.com/centos-rhel-7-how-to-change-the-verbosity-of-debug-logs-during-booting/)
 - [Introduction to the Linux kernel log levels](https://linuxconfig.org/introduction-to-the-linux-kernel-log-levels)
+
+### Increase Console-Mode Resolution
+
+- [Ask Ubuntu - How do I increase console-mode resolution?](https://askubuntu.com/questions/18444/how-do-i-increase-console-mode-resolution)
+
+edit grub configuration
+
+    sudo vim /etc/default/grub
+
+Set `GRUB_GFXPAYLOAD_LINUX` to `keep`:
+
+    GRUB_GFXPAYLOAD_LINUX=keep
+
+Update grub.
 
 ## [Arch](https://www.archlinux.org/) based distros
 
