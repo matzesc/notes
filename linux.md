@@ -61,6 +61,11 @@ This highlights `pattern1` and `pattern2` in file `file_name`:
 - [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html)
 - [Arch Linux Wiki XDG Base Directory](https://wiki.archlinux.org/index.php/XDG_Base_Directory)
 
+How to save your personal dotfiles:
+
+- [The best way to store your dotfiles: A bare Git repository](https://www.atlassian.com/git/tutorials/dotfiles)
+- [Youtube - Git Bare Repository - A Better Way To Manage Dotfiles](https://www.youtube.com/watch?v=tBoLDpTWVOM)
+
 ## Keyboard Shortcuts
 
 - [Xfce keyboard shortcuts](https://defkey.com/xfce-shortcuts)
