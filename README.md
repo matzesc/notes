@@ -36,6 +36,11 @@ Here are the links to other notes:
 
 - [What is Good About Haskell?](https://doisinkidney.com/posts/2019-10-02-what-is-good-about-haskell.html)
 
+## Rust
+
+- [Roguelike Tutorial - In Rust](http://bfnightly.bracketproductions.com/rustbook/chapter_0.html)
+  - [GitHub - Roguelike Tutorial in Rust - using RLTK](https://github.com/thebracket/rustrogueliketutorial)
+
 ## GTK+ GUI
 
 - [Creating a C/C++ GUI with GTK+](https://www.codeguru.com/cpp/cpp/creating-a-cc-gui-with-gtk.html)
