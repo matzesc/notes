@@ -23,6 +23,12 @@ More popular alternative testing framework to unittest.
 - [How To Make Python Wait](https://blog.miguelgrinberg.com/post/how-to-make-python-wait)
 - [Roguelike Tutorial in Python](http://rogueliketutorials.com/)
   - [Reddit - Roguelike](https://www.reddit.com/r/roguelikedev/)
+- [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
+
+Create a and activate a virtual environment (Linux):
+
+    python3 -m venv .venv
+    source .venv/bin/activate
 
 ## Python GUI Documentation & Tutorials
 
