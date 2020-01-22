@@ -31,6 +31,7 @@
     KB3033929 1.0.5
     KB3035131 1.0.3
     keepass.install 2.43
+    lockhunter 3.3.4
     neovim 0.4.3
     nodejs.install 13.6.0
     notepadplusplus.install 7.8.3
