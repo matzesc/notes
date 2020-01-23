@@ -13,6 +13,10 @@ Windows 10 Host
 
 ### VirtualBox Guest Additions for Ubuntu
 
+Use default "VMSVGA" graphics controller for Ubuntu. There are potential issues
+with 3D acceleration since Virtualbox 6.1, if Ubuntu does not boot into the
+login screen try to disable it.
+
 [How to install Guest Additions for Ubuntu guest](https://askubuntu.com/questions/22743/how-do-i-install-guest-additions-in-a-virtualbox-vm)
 
 Install VirtualBox Guest Additions packages
@@ -87,7 +91,8 @@ Update grub.
 ### VirtualBox Guest Additions for Arch
 
 Set "Display"->"Graphics Controller" to "VBoxSVGA" for proper multi display and
-automatic resizing support.
+automatic resizing support. Virtualbox 6.1 broke 3D acceleration for the
+"VBoxSVGA" graphics controller, make sure it is not selected.
 
 Install [VirtualBox Guest Additions](https://wiki.archlinux.org/index.php/VirtualBox#Installation_steps_for_Arch_Linux_guests) packages:
 
