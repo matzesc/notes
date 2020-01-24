@@ -25,7 +25,7 @@ More popular alternative testing framework to unittest.
   - [Reddit - Roguelike](https://www.reddit.com/r/roguelikedev/)
 - [Getting Started with Python in VS Code](https://code.visualstudio.com/docs/python/python-tutorial)
 
-Create a and activate a virtual environment (Linux):
+Create and activate a virtual environment (Linux):
 
     python3 -m venv .venv
     source .venv/bin/activate
