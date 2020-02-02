@@ -88,6 +88,11 @@ Update grub.
 - [Manjaro](https://manjaro.org/)
 - [Arco Linux](https://arcolinux.com/)
 
+Arch Linux on USB Stick
+
+- [Install Arch Linux on a USB key](https://wiki.archlinux.org/index.php/Install_Arch_Linux_on_a_USB_key)
+- [ArchLinux USB](http://valleycat.org/linux/arch-usb.html)
+
 ### VirtualBox Guest Additions for Arch
 
 Set "Display"->"Graphics Controller" to "VBoxSVGA" for proper multi display and
@@ -98,7 +103,7 @@ Install [VirtualBox Guest Additions](https://wiki.archlinux.org/index.php/Virtua
 
     sudo pacman -S virtualbox-guest-utils xf86-video-vmware
 
-## Grub Display Resolution
+### Grub Display Resolution
 
 Find a supported resolution with `vbeinfo` command in GRUB.
 
@@ -118,7 +123,7 @@ update GRUB with
 
 and  reboot
 
-## LightDM Display Resolution
+### LightDM Display Resolution
 
 Find a supported resolution with
 
