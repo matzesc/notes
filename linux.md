@@ -31,6 +31,10 @@ bash extensions:
 - [pushd, popd vs cd, cd- in bash and zsh](https://unix.stackexchange.com/questions/272965/pushd-popd-vs-cd-cd-in-bash-and-zsh)
 - [Bash Shell – Test if File or Directory Exists](https://tecadmin.net/bash-shell-test-if-file-or-directory-exists/)
 
+Articles about globbing:
+
+- [A Surprisingly Common Mistake Involving Wildcards & The Find Command](https://blog.robertelder.org/find-command-wildcard-globbing/)
+
 ## Command Line Tools
 
 - [An Illustrated Guide to Some Useful Command Line Tools](https://www.wezm.net/technical/2019/10/useful-command-line-tools/)
