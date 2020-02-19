@@ -88,3 +88,15 @@ language back for some of the Office icons in the Start Menu.
 - [Getting Crazy with Windows Subsystem for Linux](https://www.brianketelsen.com/getting-crazy-with-windows-subsystem-for-linux/)
 - [Deploy Arch Linux on Windows Subsystem for Linux “WSL”](https://medium.com/@mudrii/deploy-arch-linux-on-windows-subsystem-for-linux-wsl-a7e4cdf78c80)
 - [ArchWSL](https://github.com/yuk7/ArchWSL)
+
+## Action Center
+
+### Action Center not opening
+
+- [How to Fix Windows 10 Action Center not Opening Problem](https://www.xtremerain.com/fix-windows-action-center-not-opening/)
+- [How to Fix the Action Center Not Opening in Windows 10](https://www.maketecheasier.com/fix-action-center-not-opening-windows10/)
+- [Action Center Not Working in Windows 10 [SOLVED]](https://troubleshooter.xyz/wiki/fix-action-center-not-working-in-windows-10/)
+
+Open Power Shell in Admin mode and run:
+
+    Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}
