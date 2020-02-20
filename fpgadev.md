@@ -4,9 +4,25 @@
 
 ## Altera/Intel
 
-- [Arria V Handbook](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/arria-v/arriav_handbook.pdf)
-- [Stratix V Handbook](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/stratix-v/stratix5_handbook.pdf)
-- [DSP Builder Version History and Software Requirements](https://www.intel.com/content/www/us/en/programmable/support/support-resources/intellectual-property/dsp/dsp-builder/ips-dsp-version.html)
+- [Intel FPGAs and Programmable Devices](https://www.intel.com/content/www/us/en/products/programmable.html)
+  - [Arria V Handbook](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/arria-v/arriav_handbook.pdf)
+  - [Stratix V Handbook](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/stratix-v/stratix5_handbook.pdf)
+  - [DSP Builder Version History and Software Requirements](https://www.intel.com/content/www/us/en/programmable/support/support-resources/intellectual-property/dsp/dsp-builder/ips-dsp-version.html)
+
+Old Altera Wiki Articles (new links to Intel Website):
+
+- [TimeQuest User Guide](https://forums.intel.com/s/createarticlepage?articleid=a3g0P0000005R9MQAU&action=view&language=en_US)
+  - [Paper - TimeQuest User Guide, v1.1, R. Scoville](https://www.intel.com/content/dam/altera-www/global/en_US/uploads/3/3f/TimeQuest_User_Guide.pdf)
+- [Source Synchronous Analysis with TimeQuest](https://forums.intel.com/s/createarticlepage?language=en_US&articleid=a3g0P0000005RIKQA2&artTopicId=0TO0P000000MWKBWA4&action=view)
+  - [Paper - Source-Synchronous Timing with TimeQuest, v1.2, R. Scoville](https://www.intel.com/content/dam/altera-www/global/en_US/uploads/e/ea/Source_Synchronous_Timing.pdf)
+- [Transceiver Toolkit](https://forums.intel.com/s/createarticlepage?articleid=a3g0P0000005RAtQAM&action=view&language=en_US)
+- [DDR Timing with TimeQuest](https://forums.intel.com/s/createarticlepage?articleid=a3g0P0000005QzHQAU&action=view&language=en_US)
+
+Old Altera URLs (now redirecting to Intel Website):
+
+- [Altera.com](https://www.altera.com)
+- [AlteraForum.com](https://www.alteraforum.com/)
+- [AlteraWiki.com](https://www.alterawiki.com)
 
 ### Altera Signal Processing
 
@@ -29,6 +45,8 @@
 
 ## ModelSim
 
+- [Mentor - ModelSim](https://www.mentor.com/products/fv/modelsim/)
+
 Create library folder:
 
     vlib work
@@ -48,7 +66,19 @@ Command to compile VHDL file from command line:
 - [Pipelined Direct Form FIR Versus the Transposed Structure](https://www.allaboutcircuits.com/technical-articles/pipelined-direct-form-fir-versus-the-transposed-structure/)
 - [Systolic FIR Filter Based FPGA](https://www.design-reuse.com/articles/19106/systolic-fir-filter-based-fpga.html)
 
+## FPGA Development related Websites
+
+- [Mentor - Verification Academy](https://verificationacademy.com/)
+- [EDAPlayground](https://www.edaplayground.com/)
+
 ## Verification Frameworks
+
+### Universal Verification Methodology (UVM)
+
+- [Accellera - UVM Community](https://www.accellera.org/community/uvm/)
+  - [Download UVM](https://www.accellera.org/downloads/standards/uvm)
+- [Mentor - Universal Verification Methodology (UVM)](https://www.mentor.com/products/fv/uvm)
+- [Universal Verification Methodology](http://www.learnuvmverification.com/)
 
 ### Open Source VHDL Verification Methodology (OSVVM)
 
@@ -65,3 +95,4 @@ Command to compile VHDL file from command line:
 - [bitvis.no - Universal VHDL Verification Methodology](https://bitvis.no/dev-tools/uvvm/)
 - [Github - UVVM](https://github.com/UVVM)
   - [Github - Universal VHDL Verification Methodology (UVVM) Repository](https://github.com/UVVM/UVVM)
+
