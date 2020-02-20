@@ -47,3 +47,21 @@ Command to compile VHDL file from command line:
 - H. T. Kung, "[Why Systolic Architecture?](https://www.eecs.harvard.edu/~htk/publication/1982-kung-why-systolic-architecture.pdf)", *IEEE Computers Magazine*, Vol. 15, No 1, pp. 37-46, Jan. 1982.
 - [Pipelined Direct Form FIR Versus the Transposed Structure](https://www.allaboutcircuits.com/technical-articles/pipelined-direct-form-fir-versus-the-transposed-structure/)
 - [Systolic FIR Filter Based FPGA](https://www.design-reuse.com/articles/19106/systolic-fir-filter-based-fpga.html)
+
+## Verification Frameworks
+
+### Open Source VHDL Verification Methodology (OSVVM)
+
+- [SynthWorks Blog - OSVVM](http://www.synthworks.com/blog/osvvm/)
+- [Github - OSVVM](https://github.com/OSVVM)
+  - [Github - Open Source VHDL Verification Methodology (OSVVM) Repository](https://github.com/OSVVM/OSVVM)
+- [Doulos - The Open Source VHDL Verification Methodology (OSVVM)](https://www.doulos.com/knowhow/vhdl_designers_guide/OSVVM/)
+- [Medium - Shorten FPGA Development Time with Open Source VHDL Verification Methodology](https://medium.com/@einfochips/shorten-fgpa-development-time-with-open-source-vhdl-verification-methodology-ca5254d5132e)
+
+### Universal VHDL Verification Methodology (UVVM)
+
+- [UVVM.org](https://uvvm.org/)
+  - [UVVM Forum](https://forum.uvvm.org/)
+- [bitvis.no - Universal VHDL Verification Methodology](https://bitvis.no/dev-tools/uvvm/)
+- [Github - UVVM](https://github.com/UVVM)
+  - [Github - Universal VHDL Verification Methodology (UVVM) Repository](https://github.com/UVVM/UVVM)
