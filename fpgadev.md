@@ -95,4 +95,3 @@ Command to compile VHDL file from command line:
 - [bitvis.no - Universal VHDL Verification Methodology](https://bitvis.no/dev-tools/uvvm/)
 - [Github - UVVM](https://github.com/UVVM)
   - [Github - Universal VHDL Verification Methodology (UVVM) Repository](https://github.com/UVVM/UVVM)
-

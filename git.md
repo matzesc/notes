@@ -18,12 +18,12 @@ Configure your name and email:
 #### Linux Line Ending Configuration
 
     git config --global core.autocrlf input
-    git config --global core.safecrlf true
+    git config --global core.safecrlf warn
 
 #### Windows Line Ending Configuration
 
     git config --global core.autocrlf true
-    git config --global core.safecrlf true
+    git config --global core.safecrlf warn
 
 ### Using different Emails for Repositories
 
