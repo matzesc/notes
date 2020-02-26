@@ -9,7 +9,7 @@
   - [Stratix V Handbook](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/stratix-v/stratix5_handbook.pdf)
   - [DSP Builder Version History and Software Requirements](https://www.intel.com/content/www/us/en/programmable/support/support-resources/intellectual-property/dsp/dsp-builder/ips-dsp-version.html)
 
-### Legacy Alter URLs
+### Legacy Altera URLs
 
 Old Altera URLs (now redirecting to Intel Website):
 
@@ -38,7 +38,7 @@ Old Altera Wiki Articles (new links to Intel Website):
   - [Quartus II Tcl Example: Opening Projects](https://www.intel.com/content/www/us/en/programmable/support/support-resources/design-examples/design-software/tcl/open_project.html)
   - [TCL Commands and Packages](https://www.intel.com/content/www/us/en/programmable/quartushelp/current/index.htm#tafs/tafs/tafs.htm)
 
-### Alter/Intel IP Cores
+### Altera/Intel IP Cores
 
 - [ASMI Parallel Intel® FPGA IP CoreUser Guide](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ug/ug_altasmi_parallel.pdf)
 - [FIFO Intel® FPGA IP User Guide](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ug/ug_fifo.pdf)

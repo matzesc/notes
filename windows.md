@@ -100,3 +100,7 @@ language back for some of the Office icons in the Start Menu.
 Open Power Shell in Admin mode and run:
 
     Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}
+
+Running just this resolved the issue on my PC:
+
+    Add-AppxPackage -DisableDevelopmentMode -Register "C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\AppXManifest.xml"
