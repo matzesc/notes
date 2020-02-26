@@ -9,6 +9,14 @@
   - [Stratix V Handbook](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/stratix-v/stratix5_handbook.pdf)
   - [DSP Builder Version History and Software Requirements](https://www.intel.com/content/www/us/en/programmable/support/support-resources/intellectual-property/dsp/dsp-builder/ips-dsp-version.html)
 
+### Legacy Alter URLs
+
+Old Altera URLs (now redirecting to Intel Website):
+
+- [Altera.com](https://www.altera.com)
+- [AlteraForum.com](https://www.alteraforum.com/)
+- [AlteraWiki.com](https://www.alterawiki.com)
+
 Old Altera Wiki Articles (new links to Intel Website):
 
 - [TimeQuest User Guide](https://forums.intel.com/s/createarticlepage?articleid=a3g0P0000005R9MQAU&action=view&language=en_US)
@@ -17,12 +25,6 @@ Old Altera Wiki Articles (new links to Intel Website):
   - [Paper - Source-Synchronous Timing with TimeQuest, v1.2, R. Scoville](https://www.intel.com/content/dam/altera-www/global/en_US/uploads/e/ea/Source_Synchronous_Timing.pdf)
 - [Transceiver Toolkit](https://forums.intel.com/s/createarticlepage?articleid=a3g0P0000005RAtQAM&action=view&language=en_US)
 - [DDR Timing with TimeQuest](https://forums.intel.com/s/createarticlepage?articleid=a3g0P0000005QzHQAU&action=view&language=en_US)
-
-Old Altera URLs (now redirecting to Intel Website):
-
-- [Altera.com](https://www.altera.com)
-- [AlteraForum.com](https://www.alteraforum.com/)
-- [AlteraWiki.com](https://www.alterawiki.com)
 
 ### Altera Signal Processing
 
@@ -35,6 +37,16 @@ Old Altera URLs (now redirecting to Intel Website):
   - [Quartus II Tcl Examples](https://www.intel.com/content/altera-www/global/en_us/index/support/support-resources/design-examples/design-software/tcl.html)
   - [Quartus II Tcl Example: Opening Projects](https://www.intel.com/content/www/us/en/programmable/support/support-resources/design-examples/design-software/tcl/open_project.html)
   - [TCL Commands and Packages](https://www.intel.com/content/www/us/en/programmable/quartushelp/current/index.htm#tafs/tafs/tafs.htm)
+
+### Alter/Intel IP Cores
+
+- [ASMI Parallel Intel® FPGA IP CoreUser Guide](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ug/ug_altasmi_parallel.pdf)
+- [FIFO Intel® FPGA IP User Guide](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ug/ug_fifo.pdf)
+- [Internal Memory (RAM and ROM) User Guide](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ug/ug_ram.pdf)
+- [LVDS SERDES Transmitter / ReceiverIP Cores User Guide](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ug/ug_altlvds.pdf)
+- [Remote Update Intel® FPGA IP User Guide](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ug/ug_altremote.pdf)
+- [Triple-Speed Ethernet Intel® FPGA IP User Guide](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ug/ug_ethernet.pdf)
+- [V-Series Transceiver PHY IP Core User Guide](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ug/xcvr_user_guide.pdf)
 
 ## Xilinx
 
