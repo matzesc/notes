@@ -2,12 +2,30 @@
 
 - Back to [Personal Notes](README.md)
 
+## FPGA Development related Websites
+
+- [Mentor - Verification Academy](https://verificationacademy.com/)
+- [EDAPlayground](https://www.edaplayground.com/)
+
+## FPGA Related Conferences & Trade Shows
+
+- [ACM/SIGDA International Symposium on Field-Programmable Gate Arrays](http://isfpga.org/)
+- [FPGA-Conference Europe](https://www.fpga-conference.eu/)
+- [FPGAWorld](https://www.fpgaworld.com/)
+- [FPGA Hackathon](https://fpgahackathon.com/)
+- [HiPEAC - High Performance and Embedded Architecture and Compilation](https://www.hipeac.net/)
+- [Design Automation Conference](https://www.dac.com/)
+- [Symposium on Field-Programmable Custom Computing Machines](https://www.fccm.org/)
+- [30th International Conference on Field-Programmable Logic and Applications](https://www.fpl2020.org/)
+
 ## Altera/Intel
 
 - [Intel FPGAs and Programmable Devices](https://www.intel.com/content/www/us/en/products/programmable.html)
   - [Arria V Handbook](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/arria-v/arriav_handbook.pdf)
   - [Stratix V Handbook](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/stratix-v/stratix5_handbook.pdf)
   - [DSP Builder Version History and Software Requirements](https://www.intel.com/content/www/us/en/programmable/support/support-resources/intellectual-property/dsp/dsp-builder/ips-dsp-version.html)
+- [Intel® FPGAs and Programmable Devices Events](https://www.intel.com/content/www/us/en/programmable/events.html)
+  - [Intel Events: Tech Conferences for Cloud, IoT & More](https://www.intel.com/content/www/us/en/events/overview.html)
 
 ### Legacy Altera URLs
 
@@ -40,15 +58,19 @@ Old Altera Wiki Articles (new links to Intel Website):
 
 ### Altera/Intel IP Cores
 
-- [ASMI Parallel Intel® FPGA IP CoreUser Guide](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ug/ug_altasmi_parallel.pdf)
+- [ASMI Parallel Intel® FPGA IP Core User Guide](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ug/ug_altasmi_parallel.pdf)
 - [FIFO Intel® FPGA IP User Guide](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ug/ug_fifo.pdf)
 - [Internal Memory (RAM and ROM) User Guide](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ug/ug_ram.pdf)
-- [LVDS SERDES Transmitter / ReceiverIP Cores User Guide](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ug/ug_altlvds.pdf)
+- [LVDS SERDES Transmitter / Receiver IP Cores User Guide](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ug/ug_altlvds.pdf)
 - [Remote Update Intel® FPGA IP User Guide](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ug/ug_altremote.pdf)
 - [Triple-Speed Ethernet Intel® FPGA IP User Guide](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ug/ug_ethernet.pdf)
 - [V-Series Transceiver PHY IP Core User Guide](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ug/xcvr_user_guide.pdf)
 
 ## Xilinx
+
+- [Xilinx Conference Schedule](https://www.xilinx.com/support/university/conferences.html)
+  - [Xilinx Events](https://www.xilinx.com/about/events.html)
+  - [Xilinx Developer Forum](https://www.xilinx.com/products/design-tools/developer-forum.html)
 
 ### Xilinx Signal Processing
 
@@ -77,11 +99,6 @@ Command to compile VHDL file from command line:
 - H. T. Kung, "[Why Systolic Architecture?](https://www.eecs.harvard.edu/~htk/publication/1982-kung-why-systolic-architecture.pdf)", *IEEE Computers Magazine*, Vol. 15, No 1, pp. 37-46, Jan. 1982.
 - [Pipelined Direct Form FIR Versus the Transposed Structure](https://www.allaboutcircuits.com/technical-articles/pipelined-direct-form-fir-versus-the-transposed-structure/)
 - [Systolic FIR Filter Based FPGA](https://www.design-reuse.com/articles/19106/systolic-fir-filter-based-fpga.html)
-
-## FPGA Development related Websites
-
-- [Mentor - Verification Academy](https://verificationacademy.com/)
-- [EDAPlayground](https://www.edaplayground.com/)
 
 ## Verification Frameworks
 
