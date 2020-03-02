@@ -23,6 +23,7 @@
 - [Rohde & Schwarz - 5G New Radio eBook](https://gloris.rohde-schwarz.com/ebooks/5G)
 - [5G Mobile Networks: A Systems Approach](https://5g.systemsapproach.org/)
 - [5G/NR - Techplayon](http://www.techplayon.com/5gnr/)
+- [How LTE Stuff Works?](http://howltestuffworks.blogspot.com/)
 
 ## O-RAN (Open Radio Access Network)
 
