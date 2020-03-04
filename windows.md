@@ -89,7 +89,7 @@ language back for some of the Office icons in the Start Menu.
 - [Deploy Arch Linux on Windows Subsystem for Linux “WSL”](https://medium.com/@mudrii/deploy-arch-linux-on-windows-subsystem-for-linux-wsl-a7e4cdf78c80)
 - [ArchWSL](https://github.com/yuk7/ArchWSL)
 
-## Action Center
+## Action Center & Search Bar
 
 ### Action Center not opening
 
@@ -104,3 +104,12 @@ Open Power Shell in Admin mode and run:
 Running just this resolved the issue on my PC:
 
     Add-AppxPackage -DisableDevelopmentMode -Register "C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\AppXManifest.xml"
+
+Another way to resolve the issues is to kill the `ShellExperienceHost.exe`
+process in the task manager. Usually this process in in `Suspended` state when
+the Action Center is not opened but it was in the `Running` state when the
+Action Center was not responding.
+
+### Search Bar not working
+
+Try to kill the `SearchUI.exe` process in the task manager.
