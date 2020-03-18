@@ -25,6 +25,11 @@ VS Code notes
   - [Open in Github / Bitbucket / VisualStudio.com](https://marketplace.visualstudio.com/items?itemName=ziyasal.vscode-open-in-github)
   - [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 - [Git Project Manager](https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager)
+- [Github Markdown Preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview)
+  - [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
+  - [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji)
+  - [Markdown Checkboxes](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-checkbox)
+  - [Markdown yaml Preamble](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-yaml-preamble)
 - [Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
   - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
   - [Live Share Audio](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio)
@@ -48,6 +53,7 @@ VS Code notes
 - [Verilog HDL/SystemVerilog](https://marketplace.visualstudio.com/items?itemName=mshr-h.VerilogHDL)
 - [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons)
 - [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+- [VSNotes](https://marketplace.visualstudio.com/items?itemName=patricklee.vsnotes)
 
 ## VS Code Configuration
 
@@ -77,8 +83,10 @@ configure some paths for extensions
 
 ## Extension Development
 
-- [Your First Extension](https://code.visualstudio.com/api/get-started/your-first-extension)
-- [Language Extension Overview](https://code.visualstudio.com/api/language-extensions/overview)
+- [Extension API](https://code.visualstudio.com/api)
+  - [Your First Extension](https://code.visualstudio.com/api/get-started/your-first-extension)
+  - [Extension Guides](https://code.visualstudio.com/api/extension-guides/overview)
+  - [Language Extension Overview](https://code.visualstudio.com/api/language-extensions/overview)
 - [Testing your VS Code extensions](https://vscode.rocks/testing/)
 
 ### JavaScript

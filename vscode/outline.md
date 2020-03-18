@@ -9,6 +9,7 @@ source code:
 
 - [VS Code - Github](https://github.com/Microsoft/vscode)
   - [vscode/src/vs/vscode.d.ts](https://github.com/Microsoft/vscode/blob/master/src/vs/vscode.d.ts)
+- [VS Code Extension Samples](https://github.com/microsoft/vscode-extension-samples)
 
 ## VS Code History - Outline View
 
