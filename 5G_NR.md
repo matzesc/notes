@@ -5,18 +5,30 @@
 ## ETSI & 3GPP Release 15
 
 - [3GPP Specification series 38 (5G NR)][3GPP_38]
-- [ETSI TS 138 104 V15.7.0 - 5G NR Base Station (BS) radio transmission and reception][138_104]
+- [ETSI TS 138 101-1 V15.8.2 - 5G NR User Equipment (UE) radio transmission and reception Part 1: Range 1 Standalone][138_101_1]
+- [ETSI TS 138 104 V15.8.0 - 5G NR Base Station (BS) radio transmission and reception][138_104]
   - Section 5.3.2 - Transmission bandwidth configuration
   - Section 5.4.3 - Synchronization raster
-- [ETSI TS 138 211 V15.7.0 - 5G NR Physical channels and modulation][138_211]
+- [ETSI TS 138 141-1 V15.4.0 - 5G NR Base Station (BS) conformance testing Part 1: Conducted conformance testing][138_141_1]
+- [ETSI TS 138 141-2 V15.4.0 - 5G NR Base Station (BS) conformance testing Part 2: Radiated conformance testing][138_141_2]
+- [ETSI TS 138 201 V15.0.0 - 5G NR Physical layer General description][138_201]
+- [ETSI TS 138 211 V15.8.0 - 5G NR Physical channels and modulation][138_211]
   - Section 7.4.3 - SS/PBCH block
-- [ETSI TS 138 213 V15.7.0 - 5G NR Physical layer procedures for control][138_213]
+- [ETSI TS 128 212 V15.8.0 - 5G NR Multiplexing and channel coding][138_212]
+- [ETSI TS 138 213 V15.8.0 - 5G NR Physical layer procedures for control][138_213]
   - Section 4.1 - Cell search
+- [ETSI TS 138 331 V15.8.0 - 5G NR Radio Resource Control (RRC) Protocol specification][138_331]
 
 [3GPP_38]: https://www.3gpp.org/DynaReport/38-series.htm
-[138_104]: https://www.etsi.org/deliver/etsi_ts/138100_138199/138104/15.07.00_60/ts_138104v150700p.pdf
-[138_211]: https://www.etsi.org/deliver/etsi_ts/138200_138299/138211/15.07.00_60/ts_138211v150700p.pdf
-[138_213]: https://www.etsi.org/deliver/etsi_ts/138200_138299/138213/15.07.00_60/ts_138213v150700p.pdf
+[138_101_1]: https://www.etsi.org/deliver/etsi_ts/138100_138199/13810101/15.08.02_60/ts_13810101v150802p.pdf
+[138_104]: https://www.etsi.org/deliver/etsi_ts/138100_138199/138104/15.08.00_60/ts_138104v150800p.pdf
+[138_141_1]: https://www.etsi.org/deliver/etsi_ts/138100_138199/13814101/15.04.00_60/ts_13814101v150400p.pdf
+[138_141_2]: https://www.etsi.org/deliver/etsi_ts/138100_138199/13814102/15.04.00_60/ts_13814102v150400p.pdf
+[138_201]: https://www.etsi.org/deliver/etsi_ts/138200_138299/138201/15.00.00_60/ts_138201v150000p.pdf
+[138_211]: https://www.etsi.org/deliver/etsi_ts/138200_138299/138211/15.08.00_60/ts_138211v150800p.pdf
+[138_212]: https://www.etsi.org/deliver/etsi_ts/138200_138299/138212/15.08.00_60/ts_138212v150800p.pdf
+[138_213]: https://www.etsi.org/deliver/etsi_ts/138200_138299/138213/15.08.00_60/ts_138213v150800p.pdf
+[138_331]: https://www.etsi.org/deliver/etsi_ts/138300_138399/138331/15.08.00_60/ts_138331v150800p.pdf
 
 ### Other 5G Documentation
 
