@@ -33,6 +33,8 @@
 ### Other 5G Documentation
 
 - [Rohde & Schwarz - 5G New Radio eBook](https://gloris.rohde-schwarz.com/ebooks/5G)
+  - [Demystifying 5G - video series](https://www.rohde-schwarz.com/us/solutions/test-and-measurement/wireless-communication/wireless-5g-and-cellular/videos-demystifying-5g_232236.html)
+  - [5G Bootcamp](https://bootcamp.electronicdesign.com/?sap-outbound-id=AC9B580CAEDD868C274A65B2973022200BFB1205&utm_source=SAPHybris&utm_medium=email&utm_campaign=2360&utm_term=20200325_NA_WIC_MarchNews___5G%20Boot%20Camp___105&utm_content=EN)
 - [5G Mobile Networks: A Systems Approach](https://5g.systemsapproach.org/)
 - [5G/NR - Techplayon](http://www.techplayon.com/5gnr/)
 - [How LTE Stuff Works?](http://howltestuffworks.blogspot.com/)
