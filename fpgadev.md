@@ -43,6 +43,7 @@ Old Altera Wiki Articles (new links to Intel Website):
   - [Paper - Source-Synchronous Timing with TimeQuest, v1.2, R. Scoville](https://www.intel.com/content/dam/altera-www/global/en_US/uploads/e/ea/Source_Synchronous_Timing.pdf)
 - [Transceiver Toolkit](https://forums.intel.com/s/createarticlepage?articleid=a3g0P0000005RAtQAM&action=view&language=en_US)
 - [DDR Timing with TimeQuest](https://forums.intel.com/s/createarticlepage?articleid=a3g0P0000005QzHQAU&action=view&language=en_US)
+- [CPRI IP v6 Releases & Support](https://forums.intel.com/s/createarticlepage?articleid=a3g0P0000005QsVQAU&action=view&language=en_US)
 
 ### Altera Signal Processing
 
