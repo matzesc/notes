@@ -115,10 +115,10 @@ Running just this resolved the issue on my PC:
 
     Add-AppxPackage -DisableDevelopmentMode -Register "C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\AppXManifest.xml"
 
-Another way to resolve the issues is to kill the `ShellExperienceHost.exe`
-process in the task manager. Usually this process in the `Suspended` state when
-the Action Center is not used and switches to `Running` when opened, but it was
-always in the `Running` state when the Action Center was not responding.
+Another way to resolve the issues is, to kill the `ShellExperienceHost.exe`
+process in the task manager. Usually this process is in the `Suspended` state
+when the Action Center is not used and switches to `Running` when opened, but
+it was always in the `Running` state when the Action Center was not responding.
 
 ### Search Bar not working
 
