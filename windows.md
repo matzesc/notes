@@ -61,22 +61,28 @@ At this point Windows 10 is limited to the top 15 icon overlays.
 
 ## Office 365
 
-Download [Language Accessory Pack for Office][Lang] if you want spelling and
+Download [Language Accessory Pack for Office][OffLang] if you want spelling and
 grammar proofing for more then one language. You also want to download the
 default language and install it again after other languages to get the default
 language back for some of the Office icons in the Start Menu.
 
-[Lang]: https://support.office.com/en-us/article/Language-Accessory-Pack-for-Office-82ee1236-0f9a-45ee-9c72-05b026ee809f
+[OffLang]: https://support.office.com/en-us/article/Language-Accessory-Pack-for-Office-82ee1236-0f9a-45ee-9c72-05b026ee809f
 
-### Word Issues
+### Word
 
-- [Blacked out numbering in MS Word][Word]
+- [Blacked out numbering in MS Word][Word1]
+- [How to Enable and Disable Field Shading in Word][Word2]
 
-[Word]: https://answers.microsoft.com/en-us/office/forum/office_2016-word/blacked-out-numbering-in-ms-word-2016/d2ec88d5-fcf6-41b6-bf05-487724585f51
+[Word1]: https://answers.microsoft.com/en-us/office/forum/office_2016-word/blacked-out-numbering-in-ms-word-2016/d2ec88d5-fcf6-41b6-bf05-487724585f51
+[Word2]: https://www.howtogeek.com/240018/how-to-enable-and-disable-field-shading-in-word/
 
-### Outlook Signatures
+### Outlook
 
-- [How to import and export signatures in Microsoft Outlook?](https://www.extendoffice.com/documents/outlook/1453-outlook-import-export-signatures.html)
+- [How to import and export signatures in Microsoft Outlook?][Outlk1]
+- [How to Adjust Outlook 2016 Mark Items as Read Timer][Outlk2]
+
+[Outlk1]: https://www.extendoffice.com/documents/outlook/1453-outlook-import-export-signatures.html
+[Outlk2]: https://www.groovypost.com/howto/adjust-outlook-2016-mark-items-as-read-timer/
 
 ## Proxy Settings
 
