@@ -82,3 +82,9 @@ Articles:
 ## 5G Testing
 
 - [Rohde & Schwarz - Mobile Wireless Learning Center](https://www.mobilewirelesstesting.com/)
+
+## Open Source Projects
+
+- [Free 5G Core Network](https://free5gc.org/)
+  - [Github - Free5GC](https://github.com/free5gc/free5gc)
+  - [Hacknews - Open Source 5G core network](https://news.ycombinator.com/item?id=23426752)
