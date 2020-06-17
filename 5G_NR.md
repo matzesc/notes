@@ -85,6 +85,8 @@ Articles:
 
 ## Open Source Projects
 
+- [Open5GCore](https://www.open5gcore.org/)
+  - [5G Playground](https://www.fokus.fraunhofer.de/go/en/fokus_testbeds/5g_playground)
 - [Free 5G Core Network](https://free5gc.org/)
   - [Github - Free5GC](https://github.com/free5gc/free5gc)
-  - [Hacknews - Open Source 5G core network](https://news.ycombinator.com/item?id=23426752)
+  - [Hacker News - Open Source 5G core network](https://news.ycombinator.com/item?id=23426752)
