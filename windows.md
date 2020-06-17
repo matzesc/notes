@@ -72,9 +72,11 @@ language back for some of the Office icons in the Start Menu.
 
 - [Blacked out numbering in MS Word][Word1]
 - [How to Enable and Disable Field Shading in Word][Word2]
+- [How to Show and Hide Cell Gridlines on All Tables in Word][Word3]
 
 [Word1]: https://answers.microsoft.com/en-us/office/forum/office_2016-word/blacked-out-numbering-in-ms-word-2016/d2ec88d5-fcf6-41b6-bf05-487724585f51
 [Word2]: https://www.howtogeek.com/240018/how-to-enable-and-disable-field-shading-in-word/
+[Word3]: https://www.howtogeek.com/220886/how-to-show-and-hide-cell-gridlines-on-all-tables-in-word/
 
 ### Outlook
 
