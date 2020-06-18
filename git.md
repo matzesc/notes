@@ -106,3 +106,8 @@ Delete a specific file from GIT history:
 
 - [Travis CI](https://travis-ci.org/)
 - [GitBook](https://www.gitbook.com/)
+
+## Git Related Projects
+
+- [Git Large File Storage](https://git-lfs.github.com/)
+- [git-annex](https://git-annex.branchable.com/)
