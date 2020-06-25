@@ -20,6 +20,11 @@ Here are the links to other notes:
 - [Techplayon - Explore, Learn and Share](http://www.techplayon.com/)
 - [RF Wireless World](https://www.rfwireless-world.com/)
 
+## Signal Processing
+
+- [dB or not dB?](https://www.rohde-schwarz.com/us/applications/db-or-not-db-educational-note_230850-15534.html)
+  - [dB or not dB? - PDF](https://scdn.rohde-schwarz.com/ur/pws/dl_downloads/dl_application/application_notes/1ma98/1MA98_13e_dB_or_not_dB.pdf)
+
 ## Markdown
 
 - [Markdown Original Specification](https://daringfireball.net/projects/markdown/)
