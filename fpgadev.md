@@ -9,6 +9,7 @@
 
 ## FPGA Related Conferences & Trade Shows
 
+- [Conferences about FPGAs and Reconfigurable Computing](http://www.fpl.uni-kl.de/FPGAconf.html)
 - [ACM/SIGDA International Symposium on Field-Programmable Gate Arrays](http://isfpga.org/)
 - [FPGA-Conference Europe](https://www.fpga-conference.eu/)
 - [FPGAWorld](https://www.fpgaworld.com/)
