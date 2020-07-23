@@ -6,10 +6,13 @@
 
 - [3GPP Specification series 38 (5G NR)][3GPP_38]
 - [ETSI TS 138 101-1 V15.8.2 - 5G NR User Equipment (UE) radio transmission and reception Part 1: Range 1 Standalone][138_101_1]
+- [ETSI TS 138 101-4 V15.6.0 - 5G NR User Equipment (UE) radio transmission and reception Part 4: Performance requirements][138_101_4]
+  - Annex A (normative) - Measurement channels
 - [ETSI TS 138 104 V15.8.0 - 5G NR Base Station (BS) radio transmission and reception][138_104]
   - Section 5.3.2 - Transmission bandwidth configuration
   - Section 5.4.3 - Synchronization raster
 - [ETSI TS 138 141-1 V15.4.0 - 5G NR Base Station (BS) conformance testing Part 1: Conducted conformance testing][138_141_1]
+  - Section 4.9.2 - Test models
 - [ETSI TS 138 141-2 V15.4.0 - 5G NR Base Station (BS) conformance testing Part 2: Radiated conformance testing][138_141_2]
 - [ETSI TS 138 201 V15.0.0 - 5G NR Physical layer General description][138_201]
 - [ETSI TS 138 211 V15.8.0 - 5G NR Physical channels and modulation][138_211]
@@ -21,6 +24,7 @@
 
 [3GPP_38]: https://www.3gpp.org/DynaReport/38-series.htm
 [138_101_1]: https://www.etsi.org/deliver/etsi_ts/138100_138199/13810101/15.08.02_60/ts_13810101v150802p.pdf
+[138_101_4]: https://www.etsi.org/deliver/etsi_ts/138100_138199/13810104/15.06.00_60/ts_13810104v150600p.pdf
 [138_104]: https://www.etsi.org/deliver/etsi_ts/138100_138199/138104/15.08.00_60/ts_138104v150800p.pdf
 [138_141_1]: https://www.etsi.org/deliver/etsi_ts/138100_138199/13814101/15.04.00_60/ts_13814101v150400p.pdf
 [138_141_2]: https://www.etsi.org/deliver/etsi_ts/138100_138199/13814102/15.04.00_60/ts_13814102v150400p.pdf
