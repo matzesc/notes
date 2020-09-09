@@ -126,3 +126,21 @@ Command to compile VHDL file from command line:
 - [bitvis.no - Universal VHDL Verification Methodology](https://bitvis.no/dev-tools/uvvm/)
 - [Github - UVVM](https://github.com/UVVM)
   - [Github - Universal VHDL Verification Methodology (UVVM) Repository](https://github.com/UVVM/UVVM)
+
+### VUnit is a unit testing framework for VHDL/SystemVerilog
+
+- [VUnit: a test framework for HDL](http://vunit.github.io/)
+  - [Github - VUnit](https://github.com/VUnit/vunit)
+
+## VHDL Standard
+
+### VHDL-2019 (also know as VHDL-2017 or VHDL-2018)
+
+- [What’s new in VHDL-2019](https://vhdlwhiz.com/vhdl-2019/)
+- [Sigasi Articles](https://insights.sigasi.com/tech/)
+  - [VHDL IEEE 1076-2017 Grammar](https://insights.sigasi.com/tech/vhdl2017.ebnf/)
+  - [VHDL 2017: new and noteworthy](https://insights.sigasi.com/tech/vhdl_2017_new_and_noteworthy/)
+  - [What's new in VHDL 2019?](https://insights.sigasi.com/tech/what-is-new-in-vhdl-2019-part1/)
+  - [VHDL 2019: Interfaces](https://insights.sigasi.com/tech/what-is-new-in-vhdl-2019-part2/)
+  - [VHDL 2019: Enhanced generic types](https://insights.sigasi.com/tech/what-is-new-in-vhdl-2019-part3/)
+  - [VHDL 2019: Usability and APIs](https://insights.sigasi.com/tech/what-is-new-in-vhdl-2019-part4/)
