@@ -2,7 +2,6 @@
 
 Here are the links to other notes:
 
-- [5G NR](m-com/5G_NR.md)
 - [C# Programming](csharp.md)
 - [Chocolatey](choco.md)
 - [FPGA Development](fpgadev.md)
