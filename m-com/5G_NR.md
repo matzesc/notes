@@ -1,6 +1,7 @@
 # 5th Generation New Radio (5G NR)
 
-- Back to [Personal Notes](README.md)
+- Back to [Personal Notes](../README.md)
+- Back to [Mobile Communication Standards](README.md)
 
 ## ETSI & 3GPP Release 15
 

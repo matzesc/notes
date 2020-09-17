@@ -2,12 +2,15 @@
 
 Here are the links to other notes:
 
-- [5G NR](5G_NR.md)
+- [5G NR](m-com/5G_NR.md)
 - [C# Programming](csharp.md)
 - [Chocolatey](choco.md)
 - [FPGA Development](fpgadev.md)
 - [Git](git.md)
 - [Linux](linux.md)
+- [Mobile Communication Standards](m-com/README.md)
+  - [5G NR](m-com/5G_NR.md)
+  - [TETRA](m-com/TETRA.md)
 - [Python programming](python.md)
 - [VirtualBox](virtualbox.md)
 - [Visual Studio Code](vscode/README.md)
