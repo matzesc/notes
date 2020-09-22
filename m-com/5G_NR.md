@@ -21,7 +21,7 @@
 - [ETSI TS 128 212 V15.8.0 - 5G NR Multiplexing and channel coding][138_212]
 - [ETSI TS 138 213 V15.8.0 - 5G NR Physical layer procedures for control][138_213]
   - Section 4.1 - Cell search
-- [ETSI TS 138 331 V15.8.0 - 5G NR Radio Resource Control (RRC) Protocol specification][138_331]
+- [ETSI TS 138 331 V15.10.0 - 5G NR Radio Resource Control (RRC) Protocol specification][138_331]
 
 [3GPP_38]: https://www.3gpp.org/DynaReport/38-series.htm
 [138_101_1]: https://www.etsi.org/deliver/etsi_ts/138100_138199/13810101/15.08.02_60/ts_13810101v150802p.pdf
@@ -33,7 +33,7 @@
 [138_211]: https://www.etsi.org/deliver/etsi_ts/138200_138299/138211/15.08.00_60/ts_138211v150800p.pdf
 [138_212]: https://www.etsi.org/deliver/etsi_ts/138200_138299/138212/15.08.00_60/ts_138212v150800p.pdf
 [138_213]: https://www.etsi.org/deliver/etsi_ts/138200_138299/138213/15.08.00_60/ts_138213v150800p.pdf
-[138_331]: https://www.etsi.org/deliver/etsi_ts/138300_138399/138331/15.08.00_60/ts_138331v150800p.pdf
+[138_331]: https://www.etsi.org/deliver/etsi_ts/138300_138399/138331/15.10.00_60/ts_138331v151000p.pdf
 
 ### Other 5G Documentation
 
