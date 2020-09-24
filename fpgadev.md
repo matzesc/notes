@@ -132,6 +132,11 @@ Command to compile VHDL file from command line:
 - [VUnit: a test framework for HDL](http://vunit.github.io/)
   - [Github - VUnit](https://github.com/VUnit/vunit)
 
+### cocotb, a coroutine base cosimulation library
+
+- [Welcome to cocotb's documentation](https://docs.cocotb.org/en/stable/)
+  - [Github - cocotb](https://github.com/cocotb/cocotb)
+
 ## VHDL Standard
 
 ### VHDL-2019 (also know as VHDL-2017 or VHDL-2018)
