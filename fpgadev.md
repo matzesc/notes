@@ -38,13 +38,13 @@ Old Altera URLs (now redirecting to Intel Website):
 
 Old Altera Wiki Articles (new links to Intel Website):
 
-- [TimeQuest User Guide](https://forums.intel.com/s/createarticlepage?articleid=a3g0P0000005R9MQAU&action=view&language=en_US)
+- [TimeQuest User Guide](https://community.intel.com/t5/FPGA-Wiki/TimeQuest-User-Guide/ta-p/735550)
   - [Paper - TimeQuest User Guide, v1.1, R. Scoville](https://www.intel.com/content/dam/altera-www/global/en_US/uploads/3/3f/TimeQuest_User_Guide.pdf)
-- [Source Synchronous Analysis with TimeQuest](https://forums.intel.com/s/createarticlepage?language=en_US&articleid=a3g0P0000005RIKQA2&artTopicId=0TO0P000000MWKBWA4&action=view)
+- [Source Synchronous Analysis with TimeQuest](https://community.intel.com/t5/FPGA-Wiki/Source-Synchronous-Analysis-with-TimeQuest/ta-p/735781)
   - [Paper - Source-Synchronous Timing with TimeQuest, v1.2, R. Scoville](https://www.intel.com/content/dam/altera-www/global/en_US/uploads/e/ea/Source_Synchronous_Timing.pdf)
-- [Transceiver Toolkit](https://forums.intel.com/s/createarticlepage?articleid=a3g0P0000005RAtQAM&action=view&language=en_US)
-- [DDR Timing with TimeQuest](https://forums.intel.com/s/createarticlepage?articleid=a3g0P0000005QzHQAU&action=view&language=en_US)
-- [CPRI IP v6 Releases & Support](https://forums.intel.com/s/createarticlepage?articleid=a3g0P0000005QsVQAU&action=view&language=en_US)
+- [Transceiver Toolkit](https://community.intel.com/t5/FPGA-Wiki/Transceiver-Toolkit/ta-p/735622)
+- [DDR Timing with TimeQuest](https://community.intel.com/t5/FPGA-Wiki/DDR-Timing-with-TimeQuest/ta-p/735408)
+- [CPRI IP v6 Releases & Support](https://community.intel.com/t5/FPGA-Wiki/CPRI-IP-v6-Releases-Support/ta-p/735333)
 
 ### Altera Signal Processing
 
