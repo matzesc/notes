@@ -34,6 +34,12 @@
 - [ETSI TS 100 392-16 V1.2.1 Part 16: Network Performance Metrics](https://www.etsi.org/deliver/etsi_ts/100300_100399/10039216/01.02.01_60/ts_10039216v010201p.pdf)
 - ETSI 100 392-18 Location Information protocol (LIP)
 - ETSI 300 394-x Conformance Testing
+  - [ETSI ETS 300 394-1 Part 1: Radio](https://www.etsi.org/deliver/etsi_i_ets/300300_300399/30039401/02_20_9963/ets_30039401e02c.pdf)
+  - ETSI ETS 300 394-2 Part 2: Protocol testing specification for Voice plus Data (V+D)
+    - [ETSI ETS 300 394-2-1 Sub-part 1: Test suite structure and test purpose](https://www.etsi.org/deliver/etsi_i_ets/300300_300399/3003940201/01_60/ets_3003940201e01p.pdf)
+    - [ETSI ETS 300 394-2-2 Sub-part 2: Abstract Test Suite (ATS) for Network (NWK) layer](https://www.etsi.org/deliver/etsi_i_ets/300300_300399/3003940202/01_60/ets_3003940202e01p.pdf)
+    - [ETSI ETS 300 394-2-3 Sub-part 3: Abstract Test Suite (ATS) for Logic Link Control (LLC)](https://www.etsi.org/deliver/etsi_i_ets/300300_300399/3003940203/01_60/ets_3003940203e01p.pdf)
+    - [ETSI ETS 300 394-2-4 Sub-part 4: Abstract Test Suite (ATS) for Medium Access Control (MAC)](https://www.etsi.org/deliver/etsi_i_ets/300300_300399/3003940204/01_60/ets_3003940204e01p.pdf)
 - ETSI 300 395-x Speech Codec
 - ETSI 100 812 Subscriber Identity Module (SIM)
 - ETSI 200 812 Subscriber Identity Module (SIM)
