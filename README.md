@@ -27,6 +27,13 @@ Here are the links to other notes:
 - [dB or not dB?](https://www.rohde-schwarz.com/us/applications/db-or-not-db-educational-note_230850-15534.html)
   - [dB or not dB? - PDF](https://scdn.rohde-schwarz.com/ur/pws/dl_downloads/dl_application/application_notes/1ma98/1MA98_13e_dB_or_not_dB.pdf)
 
+## Software Defined Radio
+
+- [GNU Radio](https://www.gnuradio.org/)
+- [Software Defined Radio](https://www.sdr-radio.com/)
+- [Ettus Research](https://www.ettus.com/)
+- [RTL-SDR.COM](https://www.rtl-sdr.com/)
+
 ## Markdown
 
 - [Markdown Original Specification](https://daringfireball.net/projects/markdown/)
