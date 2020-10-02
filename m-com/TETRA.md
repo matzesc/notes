@@ -27,7 +27,7 @@
 - [ETSI ETS 300 392-9 Part 9: General Requirements for Supplementary Services(SS)](https://www.etsi.org/deliver/etsi_i_ets/300300_300399/30039209/01_20_9841/ets_30039209e01c.pdf)
 - ETSI 300 392-10 Supplementary Services Stage 1
   - [ETSI 300 392-10-1 Sub-part 1: Call Identification](https://www.etsi.org/deliver/etsi_i_ets/300300_300399/3003921001/02_60/ets_3003921001e02p.pdf)
-  - 
+  - ...
 - ETSI 300 392-11 Supplementary Services Stage 2
 - ETSI 300 392-12 Supplementary Services Stage 3
 - [ETSI TS 100 392-15 V1.5.1 Part 15: TETRA Frequency bands, duplex spacings & Channel numbering](https://www.etsi.org/deliver/etsi_ts/100300_100399/10039215/01.05.01_60/ts_10039215v010501p.pdf)
@@ -55,6 +55,10 @@
 - ETSI 300 396-6 Security
 - ETSI 300 396-7 Type 2 Repeater Air Interface
 - ETSI 300 396-10 Managed Direct Mode (MDMO)
+
+### RF Repeater Related Specifications
+
+- [ETSI EN 302 561 V2.1.1 (2016-03): Land Mobile Service; Radio equipment using constant or non-constant envelope modulation operating in a channel bandwidth of 25 kHz, 50 kHz, 100 kHz or 150 kHz; Harmonised Standard covering the essential requirements of article 3.2 of the Directive 2014/53/EU](https://www.etsi.org/deliver/etsi_en/302500_302599/302561/02.01.01_60/en_302561v020101p.pdf)
 
 ## [The Critical Communications Association (TCCA)](https://tcca.info/)
 
