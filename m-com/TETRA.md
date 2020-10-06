@@ -11,7 +11,9 @@
 ### Voice + Data (V+D)
 
 - [ETSI ETS 300 392-1 Part 1: General Network Design](https://www.etsi.org/deliver/etsi_i_ets/300300_300399/30039201/01_60/ets_30039201e01p.pdf)
-- [ETSI ETS 300 392-2 Part 2: Air Interface(AI)](https://www.etsi.org/deliver/etsi_i_ets/300300_300399/30039202/01_60/ets_30039202e01p.pdf)
+- ETSI 300 392-2 Part 2: Air Interface(AI)
+  - [ETSI ETS 300 392-2 (1996-03)](https://www.etsi.org/deliver/etsi_i_ets/300300_300399/30039202/01_60/ets_30039202e01p.pdf)
+  - [ETSI EN 300 392-2 V3.8.1 (2016-08)](https://www.etsi.org/deliver/etsi_en/300300_300399/30039202/03.08.01_60/en_30039202v030801p.pdf)
 - ETSI 300 392-3 Part 3: Interworking at the Inter-System Interface (ISI)
   - [ETSI ETS 300 392-2-1 Sub-part 1: General Design](https://www.etsi.org/deliver/etsi_i_ets/300300_300399/3003920301/01_60/ets_3003920301e01p.pdf)
   - [ETSI ETS 300 392-2-2 Sub-part 2: Additional Network Functions Individual Call (ANF-ISIIC)](https://www.etsi.org/deliver/etsi_i_ets/300300_300399/3003920302/01_20_9846/ets_3003920302e01c.pdf)
