@@ -36,7 +36,9 @@
 - [ETSI TS 100 392-16 V1.2.1 Part 16: Network Performance Metrics](https://www.etsi.org/deliver/etsi_ts/100300_100399/10039216/01.02.01_60/ts_10039216v010201p.pdf)
 - ETSI 100 392-18 Location Information protocol (LIP)
 - ETSI 300 394-x Conformance Testing
-  - [ETSI ETS 300 394-1 Part 1: Radio](https://www.etsi.org/deliver/etsi_i_ets/300300_300399/30039401/02_20_9963/ets_30039401e02c.pdf)
+  - ETSI ETS 300 394-1 Part 1: Radio
+    - [ETSI ETS 300 394-1 2nd Ed (1999-10)](https://www.etsi.org/deliver/etsi_i_ets/300300_300399/30039401/02_20_9963/ets_30039401e02c.pdf)
+    - [ETSI EN 300 391-1 V3.3.1 (2015-04)](https://www.etsi.org/deliver/etsi_en/300300_300399/30039401/03.03.01_60/en_30039401v030301p.pdf)
   - ETSI ETS 300 394-2 Part 2: Protocol testing specification for Voice plus Data (V+D)
     - [ETSI ETS 300 394-2-1 Sub-part 1: Test suite structure and test purpose](https://www.etsi.org/deliver/etsi_i_ets/300300_300399/3003940201/01_60/ets_3003940201e01p.pdf)
     - [ETSI ETS 300 394-2-2 Sub-part 2: Abstract Test Suite (ATS) for Network (NWK) layer](https://www.etsi.org/deliver/etsi_i_ets/300300_300399/3003940202/01_60/ets_3003940202e01p.pdf)
