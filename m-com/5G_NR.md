@@ -20,27 +20,32 @@
     - [ETSI TS 138 101-1 V15.8.2 (2020-01)][138_101_1_V15.8.2]
   - ETSI 138 101-4 Part 4: Performance requirements
     - [ETSI TS 138 101-4 V15.6.0 (2020-07)][138_101_4_V15.6.0]
+    - Sections of interest
       - Annex A (normative) - Measurement channels
 - ETSI 138 104 5G NR Base Station (BS) radio transmission and reception
   - [ETSI TS 138 104 V15.8.0 (2020-01)][138_104_V15.8.0]
-    - Section 5.3.2 - Transmission bandwidth configuration
-    - Section 5.4.3 - Synchronization raster
+  - Sections of interest
+    - 5.3.2 - Transmission bandwidth configuration
+    - 5.4.3 - Synchronization raster
 - ETSI 138 141 5G NR Base Station (BS) conformance testing
   - ETSI 138 141-1 Part 1: Conducted conformance testing
     - [ETSI TS 138 141-1 V15.4.0 (2020-01)][138_141_1_V15.4.0]
-      - Section 4.9.2 - Test models
+    - Sections of interest
+      - 4.9.2 - Test models
   - ETSI 138 141-2 Part 2: Radiated conformance testing
     - [ETSI TS 138 141-2 V15.4.0 (2020-01)][138_141_2_V15.4.0]
 - ETSI 138 201 5G NR Physical layer General description
   - [ETSI TS 138 201 V15.0.0 (2018-09)][138_201_V15.0.0]
 - ETSI 138 211 5G NR Physical channels and modulation
   - [ETSI TS 138 211 V15.8.0 (2020-01)][138_211_V15.8.0]
-    - Section 7.4.3 - SS/PBCH block
+  - Sections of interest
+    - 7.4.3 - SS/PBCH block
 - ETSI 128 212 5G NR Multiplexing and channel coding
   - [ETSI TS 128 212 V15.8.0 (2020-01)][138_212_V15.8.0]
 - ETSI 138 213 - 5G NR Physical layer procedures for control
   - [ETSI TS 138 213 V15.8.0 (2020-01)][138_213_V15.8.0]
-    - Section 4.1 - Cell search
+  - Sections of interest
+    - 4.1 - Cell search
 - ETSI 138 331 5G NR Radio Resource Control (RRC) Protocol specification
   - [ETSI TS 138 331 V15.10.0 (2020-07)][138_331_V15.10.0]
 
