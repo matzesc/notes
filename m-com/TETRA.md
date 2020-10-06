@@ -1,18 +1,21 @@
-# TErrestrial Trunked Radio (TETRA)
+# TErrestrial Trunked RAdio (TETRA)
 
 - Back to [Personal Notes](../README.md)
 - Back to [Mobile Communication Standards](README.md)
 
 ## [ETSI](https://www.etsi.org/)
 
-- [ETSI - TETRA | TErrestrial Trunked Radio](https://www.etsi.org/technologies/tetra)
+- [ETSI - TETRA | TErrestrial Trunked RAdio](https://www.etsi.org/technologies/tetra)
 - [ETSI - Our committee Terrestrial Trunked Radio and Critical Communications Evolution (TCCE)](https://www.etsi.org/committee/1416-tcce)
 
-### Voice + Data (V+D)
+### Voice + Data (V+D) Specs
 
-- [ETSI ETS 300 392-1 Part 1: General Network Design](https://www.etsi.org/deliver/etsi_i_ets/300300_300399/30039201/01_60/ets_30039201e01p.pdf)
+- ETSI 300 392-1 Part 1: General Network Design
+  - [ETSI ETS 300 392-1 (1996-02)](https://www.etsi.org/deliver/etsi_i_ets/300300_300399/30039201/01_60/ets_30039201e01p.pdf)
+  - [ETSI EN 300 392-1 V1.6.1 (2020-04)](https://www.etsi.org/deliver/etsi_en/300300_300399/30039201/01.06.01_60/en_30039201v010601p.pdf)
 - ETSI 300 392-2 Part 2: Air Interface(AI)
   - [ETSI ETS 300 392-2 (1996-03)](https://www.etsi.org/deliver/etsi_i_ets/300300_300399/30039202/01_60/ets_30039202e01p.pdf)
+  - [ETSI ETS 300 392-2 2nd Ed (1999-12)](https://www.etsi.org/deliver/etsi_i_ets/300300_300399/30039202/02_20_200015/ets_30039202e02c.pdf)
   - [ETSI EN 300 392-2 V3.8.1 (2016-08)](https://www.etsi.org/deliver/etsi_en/300300_300399/30039202/03.08.01_60/en_30039202v030801p.pdf)
 - ETSI 300 392-3 Part 3: Interworking at the Inter-System Interface (ISI)
   - [ETSI ETS 300 392-2-1 Sub-part 1: General Design](https://www.etsi.org/deliver/etsi_i_ets/300300_300399/3003920301/01_60/ets_3003920301e01p.pdf)
@@ -49,7 +52,7 @@
 - ETSI 200 812 Subscriber Identity Module (SIM)
 - ETSI 300 812 Subscriber Identity Module (SIM)
 
-### Direct Mode (DMO)
+### Direct Mode (DMO) Specs
 
 - ETSI 300 396-1 General Network design
 - ETSI 300 396-2 Radio Aspects
