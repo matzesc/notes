@@ -3,7 +3,7 @@
 - Back to [Personal Notes](../README.md)
 - Back to [Mobile Communication Standards](README.md)
 
-## 3GPP
+## [3GPP](https://www.3gpp.org/)
 
 - [3GPP Specification series 38 (5G NR)][3GPP_38]
 
@@ -38,7 +38,7 @@
     - Section 7.4.3 - SS/PBCH block
 - ETSI 128 212 5G NR Multiplexing and channel coding
   - [ETSI TS 128 212 V15.8.0 (2020-01)][138_212_V15.8.0]
-- [ETSI 138 213 - 5G NR Physical layer procedures for control]
+- ETSI 138 213 - 5G NR Physical layer procedures for control
   - [ETSI TS 138 213 V15.8.0 (2020-01)][138_213_V15.8.0]
     - Section 4.1 - Cell search
 - ETSI 138 331 5G NR Radio Resource Control (RRC) Protocol specification

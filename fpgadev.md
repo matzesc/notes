@@ -137,9 +137,19 @@ Command to compile VHDL file from command line:
 - [Welcome to cocotb's documentation](https://docs.cocotb.org/en/stable/)
   - [Github - cocotb](https://github.com/cocotb/cocotb)
 
-## VHDL Standard
+## VHDL Standard (IEEE 1076)
 
-### VHDL-2019 (also know as VHDL-2017 or VHDL-2018)
+- [IEEE P1076 Working Group](http://www.eda-twiki.org/cgi-bin/view.cgi/P1076/WebHome)
+- [IEEE 1076-2019](https://standards.ieee.org/standard/1076-2019.html)
+
+### IEEE 1076 - Standard VHDL Language Reference Manual
+
+- [1076-1987 - IEEE Standard VHDL Language Reference Manual](https://ieeexplore.ieee.org/document/26487)
+- [1076-1993 - IEEE Standard VHDL Language Reference Manual](https://ieeexplore.ieee.org/document/392561)
+- [1076-2008 - IEEE Standard VHDL Language Reference Manual](https://ieeexplore.ieee.org/document/4772740)
+- [1076-2019 - IEEE Standard for VHDL Language Reference Manual](https://ieeexplore.ieee.org/document/8938196)
+
+### Articles about VHDL-2019 (also know as VHDL-2017 or VHDL-2018)
 
 - [What’s new in VHDL-2019](https://vhdlwhiz.com/vhdl-2019/)
 - [Sigasi Articles](https://insights.sigasi.com/tech/)
