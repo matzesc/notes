@@ -39,9 +39,12 @@
 - ETSI 138 211 5G NR Physical channels and modulation
   - [ETSI TS 138 211 V15.8.0 (2020-01)][138_211_V15.8.0]
   - Sections of interest
-    - 7.4.3 - SS/PBCH block
-- ETSI 128 212 5G NR Multiplexing and channel coding
-  - [ETSI TS 128 212 V15.8.0 (2020-01)][138_212_V15.8.0]
+    - 4.3 Frame structure
+    - 5.3 OFDM baseband signal generation
+    - 7.4.2 Synchronization signals
+    - 7.4.3 SS/PBCH block
+- ETSI 138 212 5G NR Multiplexing and channel coding
+  - [ETSI TS 138 212 V15.8.0 (2020-01)][138_212_V15.8.0]
 - ETSI 138 213 - 5G NR Physical layer procedures for control
   - [ETSI TS 138 213 V15.8.0 (2020-01)][138_213_V15.8.0]
   - Sections of interest
