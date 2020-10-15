@@ -1,7 +1,7 @@
 # TErrestrial Trunked RAdio (TETRA)
 
 - Back to [Personal Notes](../README.md)
-- Back to [Mobile Communication Standards](README.md)
+- Back to [Wireless Communication Standards](README.md)
 
 ## [ETSI](https://www.etsi.org/)
 

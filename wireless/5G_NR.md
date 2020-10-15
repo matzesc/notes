@@ -1,7 +1,7 @@
 # 5th Generation New Radio (5G NR)
 
 - Back to [Personal Notes](../README.md)
-- Back to [Mobile Communication Standards](README.md)
+- Back to [Wireless Communication Standards](README.md)
 
 ## [3GPP](https://www.3gpp.org/)
 
