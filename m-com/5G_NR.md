@@ -37,6 +37,7 @@
 - ETSI 138 201 5G NR Physical layer General description
   - [ETSI TS 138 201 V15.0.0 (2018-09)][138_201_V15.0.0]
 - ETSI 138 211 5G NR Physical channels and modulation
+  - [ETSI TS 138 211 V16.2.0 (2020-07)][138_211_V16.2.0]
   - [ETSI TS 138 211 V15.8.0 (2020-01)][138_211_V15.8.0]
   - Sections of interest
     - 4.3 Frame structure
@@ -59,6 +60,7 @@
 [138_141_2_V15.4.0]: https://www.etsi.org/deliver/etsi_ts/138100_138199/13814102/15.04.00_60/ts_13814102v150400p.pdf
 [138_201_V15.0.0]: https://www.etsi.org/deliver/etsi_ts/138200_138299/138201/15.00.00_60/ts_138201v150000p.pdf
 [138_211_V15.8.0]: https://www.etsi.org/deliver/etsi_ts/138200_138299/138211/15.08.00_60/ts_138211v150800p.pdf
+[138_211_V16.2.0]: https://www.etsi.org/deliver/etsi_ts/138200_138299/138211/16.02.00_60/ts_138211v160200p.pdf
 [138_212_V15.8.0]: https://www.etsi.org/deliver/etsi_ts/138200_138299/138212/15.08.00_60/ts_138212v150800p.pdf
 [138_213_V15.8.0]: https://www.etsi.org/deliver/etsi_ts/138200_138299/138213/15.08.00_60/ts_138213v150800p.pdf
 [138_331_V15.10.0]: https://www.etsi.org/deliver/etsi_ts/138300_138399/138331/15.10.00_60/ts_138331v151000p.pdf
