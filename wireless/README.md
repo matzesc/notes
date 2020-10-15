@@ -1,4 +1,4 @@
-# Mobile Communication Standards
+# Wirless Communication Standards
 
 - Back to [Personal Notes](../README.md)
 
