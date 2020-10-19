@@ -12,6 +12,7 @@
 ## [ETSI](https://www.etsi.org/)
 
 - [ETSI - Mobile Technologies - 5g, 5g Specs | Future Technology](https://www.etsi.org/technologies/5g)
+- [ETSI - 5g Standards - 5g Mobile Technologies](https://www.etsi.org/technologies/mobile/5g)
 
 ### 5G NR Specs
 

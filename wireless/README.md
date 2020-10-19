@@ -5,4 +5,5 @@
 ## Standards
 
 - [5G NR](5G_NR.md)
+- [LTE](LTE.md)
 - [TETRA](TETRA.md)

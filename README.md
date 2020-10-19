@@ -9,6 +9,7 @@ Here are the links to other notes:
 - [Linux](linux.md)
 - [Wireless Communication Standards](wireless/README.md)
   - [5G NR](wireless/5G_NR.md)
+  - [LTE](wireless/LTE.md)
   - [TETRA](wireless/TETRA.md)
 - [Python programming](python.md)
 - [VirtualBox](virtualbox.md)
