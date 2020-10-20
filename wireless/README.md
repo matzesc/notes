@@ -4,6 +4,14 @@
 
 ## Standards
 
-- [5G NR](5G_NR.md)
-- [LTE](LTE.md)
-- [TETRA](TETRA.md)
+- 2nd generation
+  - GSM
+  - [TETRA](TETRA.md)
+- 3rd generation
+  - UMTS
+  - CDMA 2000
+- 4th generation
+  - [LTE](LTE.md)
+  - WiMAX
+- 5th generation
+  - [5G NR](5G_NR.md)
