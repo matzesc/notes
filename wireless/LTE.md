@@ -1,5 +1,8 @@
 # Long Term Evolution (LTE)
 
+- Back to [Personal Notes](../README.md)
+- Back to [Wireless Communication Standards](README.md)
+
 ## [3GPP](https://www.3gpp.org/)
 
 - [3GPP Specification series 36 (LTE)][3GPP_36]
@@ -20,4 +23,3 @@
       - TDD tables
     - 6.11 Synchronization Signals
     - 6.12 OFDM baseband signal generation
-
