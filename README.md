@@ -4,6 +4,7 @@ Here are the links to other notes:
 
 - [C# Programming](csharp.md)
 - [Chocolatey](choco.md)
+- [Emacs](emacs.md)
 - [FPGA Development](fpgadev.md)
 - [Git](git.md)
 - [Linux](linux.md)
