@@ -87,3 +87,11 @@ use this command to disable Display Power Management:
 
 - [Powerline fonts](https://github.com/powerline/fonts)
 - [Nerd Fonts](https://www.nerdfonts.com/)
+
+## [GnuPG](https://gnupg.org/)
+
+- [Creating the perfect GPG keypair](https://alexcabal.com/creating-the-perfect-gpg-keypair)
+- [Subkeys - Debian Wiki](https://wiki.debian.org/Subkeys)
+- [Using on offline GnuPG master key](https://incenp.org/notes/2015/using-an-offline-gnupg-master-key.html)
+- [How to use GPG with YubiKey & WSL](https://codingnest.com/how-to-use-gpg-with-yubikey-wsl/)
+- [Creating GPG Keys - Fedora Docs](https://docs.fedoraproject.org/en-US/quick-docs/create-gpg-keys/)
