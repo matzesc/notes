@@ -90,8 +90,11 @@ use this command to disable Display Power Management:
 
 ## [GnuPG](https://gnupg.org/)
 
+- [Debian Public Key Server](https://keyring.debian.org/)
+  - [Creating a new GPG key - Debian](https://keyring.debian.org/creating-key.html)
+  - [Subkeys - Debian Wiki](https://wiki.debian.org/Subkeys)
 - [Creating the perfect GPG keypair](https://alexcabal.com/creating-the-perfect-gpg-keypair)
-- [Subkeys - Debian Wiki](https://wiki.debian.org/Subkeys)
 - [Using on offline GnuPG master key](https://incenp.org/notes/2015/using-an-offline-gnupg-master-key.html)
 - [How to use GPG with YubiKey & WSL](https://codingnest.com/how-to-use-gpg-with-yubikey-wsl/)
 - [Creating GPG Keys - Fedora Docs](https://docs.fedoraproject.org/en-US/quick-docs/create-gpg-keys/)
+- [How to change the expiration date of a GPG key](http://www.g-loaded.eu/2010/11/01/change-expiration-date-gpg-key/)
