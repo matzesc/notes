@@ -68,9 +68,10 @@ Initialize Doom Emacs from GIT bash.
 
 `~/.emacs.d/bin/doom init`
 
-### create Windows Shortcut
+### Create a Windows Shortcut
 
 Set Target to:
+
 `<emacspath_win>\bin\emacsclientw.exe --alternate-editor="<emacspath_win>\bin\runemacs.exe" -c`
 
 ## Emacs Package Archives
