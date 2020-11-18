@@ -1,12 +1,12 @@
-# Wireless Communication Standards
+# Wireless Communication
 
 - Back to [Personal Notes](../README.md)
 
 ## Standards
 
 - 1st generation
-  - C-Netz
   - AMPS
+  - C-Netz
 - 2nd generation
   - Digital AMPS
   - GSM
@@ -20,3 +20,7 @@
   - WiMAX
 - 5th generation
   - [5G NR](5G_NR.md)
+
+## Interesting Articles
+
+- [I/Q Data for Dummies](http://whiteboard.ping.se/SDR/IQ)
