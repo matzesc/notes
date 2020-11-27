@@ -83,3 +83,6 @@ Set Target to:
 ## Emacs Lisp
 
 - [Youtube - An Introduction to Emacs Lisp](https://www.youtube.com/watch?v=2z-YBsd5snY)
+- [Youtube - Writing A Spotify Client in 16 Minutes](https://www.youtube.com/watch?v=XjKtkEMUYGc)
+- [Youtube - Writing Games with Emacs](https://www.youtube.com/watch?v=gk39mp8Vy4M)
+- [Youtube - Xah Lee Live Stream. emacs lisp for beginner.](https://www.youtube.com/watch?v=1HspB643qdw)
