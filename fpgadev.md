@@ -147,6 +147,8 @@ Command to compile VHDL file from command line:
 ## VHDL Standard (IEEE 1076)
 
 - [IEEE P1076 Working Group](http://www.eda-twiki.org/cgi-bin/view.cgi/P1076/WebHome)
+  - [Gitlab - IEEE-P1076](https://gitlab.com/IEEE-P1076)
+  - [vasg / Packages](https://opensource.ieee.org/vasg/Packages)
 - [IEEE 1076-2019](https://standards.ieee.org/standard/1076-2019.html)
 
 ### IEEE 1076 - Standard VHDL Language Reference Manual
