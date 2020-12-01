@@ -82,6 +82,11 @@ Set Target to:
 
 ## Emacs Lisp
 
+- [The Emacs Package Developer’s Handbook](https://github.com/alphapapa/emacs-package-dev-handbook)
+- [The Emacs Lisp Style Guide](https://github.com/bbatsov/emacs-lisp-style-guide)
+
+### Youtube videos
+
 - [Youtube - An Introduction to Emacs Lisp](https://www.youtube.com/watch?v=2z-YBsd5snY)
 - [Youtube - Writing A Spotify Client in 16 Minutes](https://www.youtube.com/watch?v=XjKtkEMUYGc)
 - [Youtube - Writing Games with Emacs](https://www.youtube.com/watch?v=gk39mp8Vy4M)

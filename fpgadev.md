@@ -102,6 +102,13 @@ Command to compile VHDL file from command line:
 - [Pipelined Direct Form FIR Versus the Transposed Structure](https://www.allaboutcircuits.com/technical-articles/pipelined-direct-form-fir-versus-the-transposed-structure/)
 - [Systolic FIR Filter Based FPGA](https://www.design-reuse.com/articles/19106/systolic-fir-filter-based-fpga.html)
 
+## Gray Codes
+
+- [Gray Code: Binary to Gray Code Converter](https://www.electrical4u.com/binary-to-gray-code-converter-and-grey-to-binary-code-converter/)
+- [Implementations for Gray code encoding and decoding](https://leni536.github.io/2019/09/26/Gray_encode_decode.html)
+- [N-bit gray counter using vhdl](https://www.engineersgarage.com/vhdl/n-bit-gray-counter-using-vhdl/)
+- [Intel - VHDL: Gray Counter](https://www.intel.com/content/www/us/en/programmable/support/support-resources/design-examples/design-software/vhdl/vhd-gray-counter.html)
+
 ## Verification Frameworks
 
 ### Universal Verification Methodology (UVM)
