@@ -91,3 +91,8 @@ Set Target to:
 - [Youtube - Writing A Spotify Client in 16 Minutes](https://www.youtube.com/watch?v=XjKtkEMUYGc)
 - [Youtube - Writing Games with Emacs](https://www.youtube.com/watch?v=gk39mp8Vy4M)
 - [Youtube - Xah Lee Live Stream. emacs lisp for beginner.](https://www.youtube.com/watch?v=1HspB643qdw)
+
+## Emacs & GPG
+
+- [Keeping Secrets in Emacs with GnuPG and Auth Sources](https://www.masteringemacs.org/article/keeping-secrets-in-emacs-gnupg-auth-sources)
+- [Setting up GPG for Emacs](https://lars.ingebrigtsen.no/2019/08/26/setting-up-gpg-for-emacs/)
