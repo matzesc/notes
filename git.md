@@ -77,6 +77,18 @@ update to new URL
 
 - [99% of the Git commands you'll need at work, demonstrated in a single script](https://bitbucket.org/BitPusher16/dotfiles/raw/49a01d929dcaebcca68bbb1859b4ac1aea93b073/refs/git/git_examples.sh)
 
+### Git Submodules/Subtree
+
+- [Github Blog - Working with submodules](https://github.blog/2016-02-01-working-with-submodules/)
+- [Git subtree: the alternative to Git submodule](https://www.atlassian.com/git/tutorials/git-subtree)
+- [Git Submodules vs Git Subtrees](https://martowen.com/2016/05/01/git-submodules-vs-git-subtrees/)
+
+### Git Worktrees
+
+- [Git - git-worktree Documentation](https://git-scm.com/docs/git-worktree)
+- [Git - Worktrees](https://devtut.github.io/git/worktrees.html#using-a-worktree)
+- [Git Worktrees: Parallel Development Guide](https://tecadmin.net/git-worktrees-parallel-development-guide/)
+
 ## Git fixing history issues
 
 ### Remove Large Files from a Repository
