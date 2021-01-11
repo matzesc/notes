@@ -84,6 +84,7 @@ Set Target to:
 
 - [The Emacs Package Developer’s Handbook](https://github.com/alphapapa/emacs-package-dev-handbook)
 - [The Emacs Lisp Style Guide](https://github.com/bbatsov/emacs-lisp-style-guide)
+- [A brief introduction to Emacs Lisp for people with programming background](http://lgmoneda.github.io/2017/03/15/elisp-summary.html)
 
 ### Youtube videos
 
