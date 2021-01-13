@@ -66,6 +66,7 @@
 ### RF Repeater Related Specifications
 
 - [ETSI EN 302 561 V2.1.1 (2016-03): Land Mobile Service; Radio equipment using constant or non-constant envelope modulation operating in a channel bandwidth of 25 kHz, 50 kHz, 100 kHz or 150 kHz; Harmonised Standard covering the essential requirements of article 3.2 of the Directive 2014/53/EU](https://www.etsi.org/deliver/etsi_en/302500_302599/302561/02.01.01_60/en_302561v020101p.pdf)
+  - 7.3 Adjacent and alternate channel power
 
 ## [The Critical Communications Association (TCCA)](https://tcca.info/)
 
