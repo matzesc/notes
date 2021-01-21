@@ -6,7 +6,7 @@
 
 search for `word` occurrence in specific file type (e.g. `*.md`):
 
-    grep -inH --color "word" `find . -name "*.md" -print`
+    grep -inH "word" --color `find . -name "*.md" -print`
 
 See [ripgrep](https://github.com/BurntSushi/ripgrep) as an alternative to `grep .. | find ..`
 
