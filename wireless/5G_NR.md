@@ -51,6 +51,7 @@
   - [ETSI TS 138 213 V15.8.0 (2020-01)][138_213_V15.8.0]
   - Sections of interest
     - 4.1 - Cell search
+    - Table 11.1.1-1: Slot formats for normal cyclic prefix
 - ETSI 138 331 5G NR Radio Resource Control (RRC) Protocol specification
   - [ETSI TS 138 331 V15.10.0 (2020-07)][138_331_V15.10.0]
 
