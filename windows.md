@@ -124,4 +124,4 @@ it was always in the `Running` state when the Action Center was not responding.
 
 ### Search Bar not working
 
-Try to kill the `SearchUI.exe` process in the task manager.
+Try to kill the `SearchUI.exe` or `SearchApp.exe` (in newer Windows 10 releases) process in the task manager.
