@@ -30,6 +30,13 @@ Here are the links to other notes:
 - [dB or not dB?](https://www.rohde-schwarz.com/us/applications/db-or-not-db-educational-note_230850-15534.html)
   - [dB or not dB? - PDF](https://scdn.rohde-schwarz.com/ur/pws/dl_downloads/dl_application/application_notes/1ma98/1MA98_13e_dB_or_not_dB.pdf)
 
+## Digital Signal Processing
+
+- [Prof. Fred Harris Discusses Recent Interesting and Useful Enhancements of Polyphase Filter Banks](https://www.ieee-bv.org/harris-polyphase-filter/)
+  - [Slides](https://www.ieee-bv.org/wp-content/uploads/2021/02/ComSoc-Harris-Recent-Enhancements-Polyphase-Filter.pdf)
+  - [Youtube Video](https://www.youtube.com/watch?v=afU9f5MuXr8)
+- [Prof. Rich Radke - Digital Signal Processing Lectures, Fall 2014](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et)
+
 ## Software Defined Radio
 
 - [GNU Radio](https://www.gnuradio.org/)
