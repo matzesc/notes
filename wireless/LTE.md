@@ -23,3 +23,9 @@
       - TDD tables
     - 6.11 Synchronization Signals
     - 6.12 OFDM baseband signal generation
+- ETSI 136 143 LTE Evolved Universal Terrestrial Radio Access (E-UTRA) FDD repeater conformance testing  
+  - [ETSI TS 136 143 V16.0.0 (2020-07)](https://www.etsi.org/deliver/etsi_ts/136100_136199/136143/16.00.00_60/ts_136143v160000p.pdf)
+    - Section of interest
+      - 8 Out of band gain
+      - 8.5 Test Requirements
+        - see Table 8.5-1 and 8.5-2
