@@ -3,6 +3,10 @@
 - Back to [Personal Notes](../README.md)
 - Back to [Wireless Communication Standards](README.md)
 
+## LTE Introduction
+
+- [Yotube Playlist - LTE Radio Primer](https://www.youtube.com/playlist?list=PLgQvzsPaZX_Zmvc17FPPEcdgQGcoIzLrn)
+
 ## [3GPP](https://www.3gpp.org/)
 
 - [3GPP Specification series 36 (LTE)][3GPP_36]
