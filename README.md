@@ -32,10 +32,11 @@ Here are the links to other notes:
 
 ## Digital Signal Processing
 
+- [Prof. Rich Radke - Digital Signal Processing Lectures, Fall 2014](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et)
+- [I/Q Data for Dummies](http://whiteboard.ping.se/SDR/IQ)
 - [Prof. Fred Harris Discusses Recent Interesting and Useful Enhancements of Polyphase Filter Banks](https://www.ieee-bv.org/harris-polyphase-filter/)
   - [Slides](https://www.ieee-bv.org/wp-content/uploads/2021/02/ComSoc-Harris-Recent-Enhancements-Polyphase-Filter.pdf)
   - [Youtube Video](https://www.youtube.com/watch?v=afU9f5MuXr8)
-- [Prof. Rich Radke - Digital Signal Processing Lectures, Fall 2014](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et)
 
 ## Software Defined Radio
 

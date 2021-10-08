@@ -88,12 +88,16 @@ Articles:
 - [What are Open RAN Systems pros and cons?][3]
 - [How Many vRAN Initiatives Does it Take to Open the Radio Network?][4]
 - [Keysight, AT&T, Anokiwave, Ball Corporation and Xilinx Achieve Key Industry Milestone, Accelerating Development of Open RAN 5G Networks][5]
+- [National Instruments - White Paper - An Introduction to O-RAN][6]
+- [Difference between Frequency Range, IBW and OBW in 5G (3.5Ghz band)][7]
 
 [1]: https://telecominfraproject.com/openran/
 [2]: https://www.asiaone.com/business/ntt-docomo-industry-leaders-launch-oran-alliance
 [3]: https://wade4wireless.com/2018/07/05/what-are-open-ran-systems-pros-and-cons/
 [4]: https://www.sdxcentral.com/articles/opinion-editorial/many-vran-initiatives-take-open-radio-network/2018/02/
 [5]: https://about.keysight.com/en/newsroom/pr/2019/14feb-nr19011.shtml
+[6]: https://www.ni.com/content/dam/web/pdfs/white-paper/Introduction-to_ORAN-WP.pdf
+[7]: https://www.5gworldpro.com/blog/2021/10/22/139-difference-between-frequency-range-ibw-and-obw-in-5g-3-5ghz-band/
 
 ## CPRI/eCPRI
 
