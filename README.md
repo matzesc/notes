@@ -81,6 +81,12 @@ Here are the links to other notes:
 - [ScreenToGIF](https://www.screentogif.com/)
 - [Peek - an animated GIF recorder](https://github.com/phw/peek)
 
+## ASCII drawing
+
+- [Textik - ASCII diagrams editor](https://textik.com/)
+- [ASCIIFlow](https://asciiflow.com/)
+- [Github - ASCII doctor diagram](https://github.com/asciidoctor/asciidoctor-diagram)
+
 ## Other Topics
 
 - [Introducing our Startup Handbook](https://versionone.vc/startup-handbook/)
