@@ -90,6 +90,8 @@ Articles:
 - [Keysight, AT&T, Anokiwave, Ball Corporation and Xilinx Achieve Key Industry Milestone, Accelerating Development of Open RAN 5G Networks][5]
 - [National Instruments - White Paper - An Introduction to O-RAN][6]
 - [Difference between Frequency Range, IBW and OBW in 5G (3.5Ghz band)][7]
+- [Exploring functional splits in 5G RAN: Tradeoffs and use cases][8]
+- [Cloud RAN and eCPRI fronthaul in 5G networks][9]
 
 [1]: https://telecominfraproject.com/openran/
 [2]: https://www.asiaone.com/business/ntt-docomo-industry-leaders-launch-oran-alliance
@@ -98,6 +100,8 @@ Articles:
 [5]: https://about.keysight.com/en/newsroom/pr/2019/14feb-nr19011.shtml
 [6]: https://www.ni.com/content/dam/web/pdfs/white-paper/Introduction-to_ORAN-WP.pdf
 [7]: https://www.5gworldpro.com/blog/2021/10/22/139-difference-between-frequency-range-ibw-and-obw-in-5g-3-5ghz-band/
+[8]: https://www.rcrwireless.com/20210317/opinion/readerforum/exploring-functional-splits-in-5g-ran-tradeoffs-and-use-cases-reader-forum
+[9]: https://medium.com/5g-nr/cloud-ran-and-ecpri-fronthaul-in-5g-networks-a1f63d13df67
 
 ## CPRI/eCPRI
 
