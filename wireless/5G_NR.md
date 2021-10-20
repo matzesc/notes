@@ -18,7 +18,11 @@
 
 - ETSI 138 101 5G NR User Equipment (UE) radio transmission and reception
   - ETSI 138 101-1 Part 1: Range 1 Standalone
+    - [ETSI TS 138 101-1 V16.9.0 (2021-10)][138_101_1_V16.9.0]
     - [ETSI TS 138 101-1 V15.8.2 (2020-01)][138_101_1_V15.8.2]
+    - Sections of interest
+      - 5.3.2 - Maximum transmission bandwidth configuration
+      - 5.3.3 - Minimum guardband and transmission bandwidth configuration
   - ETSI 138 101-4 Part 4: Performance requirements
     - [ETSI TS 138 101-4 V15.6.0 (2020-07)][138_101_4_V15.6.0]
     - Sections of interest
@@ -27,6 +31,7 @@
   - [ETSI TS 138 104 V15.8.0 (2020-01)][138_104_V15.8.0]
   - Sections of interest
     - 5.3.2 - Transmission bandwidth configuration
+    - 5.3.3 - Minimum guardband and transmission bandwidth configuration
     - 5.4.3 - Synchronization raster
 - ETSI 138 141 5G NR Base Station (BS) conformance testing
   - ETSI 138 141-1 Part 1: Conducted conformance testing
@@ -56,6 +61,7 @@
   - [ETSI TS 138 331 V15.10.0 (2020-07)][138_331_V15.10.0]
 
 [138_101_1_V15.8.2]: https://www.etsi.org/deliver/etsi_ts/138100_138199/13810101/15.08.02_60/ts_13810101v150802p.pdf
+[138_101_1_V16.9.0]: https://www.etsi.org/deliver/etsi_ts/138100_138199/13810101/16.09.00_60/ts_13810101v160900p.pdf
 [138_101_4_V15.6.0]: https://www.etsi.org/deliver/etsi_ts/138100_138199/13810104/15.06.00_60/ts_13810104v150600p.pdf
 [138_104_V15.8.0]: https://www.etsi.org/deliver/etsi_ts/138100_138199/138104/15.08.00_60/ts_138104v150800p.pdf
 [138_141_1_V15.4.0]: https://www.etsi.org/deliver/etsi_ts/138100_138199/13814101/15.04.00_60/ts_13814101v150400p.pdf
