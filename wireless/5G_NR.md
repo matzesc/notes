@@ -18,60 +18,56 @@
 
 - ETSI 138 101 5G NR User Equipment (UE) radio transmission and reception
   - ETSI 138 101-1 Part 1: Range 1 Standalone
-    - [ETSI TS 138 101-1 V16.9.0 (2021-10)][138_101_1_V16.9.0]
-    - [ETSI TS 138 101-1 V15.8.2 (2020-01)][138_101_1_V15.8.2]
+    - [ETSI TS 138 101-1 V17.10.0 (2023-07)][138_101_1_V17.10.0]
     - Sections of interest
       - 5.3.2 - Maximum transmission bandwidth configuration
       - 5.3.3 - Minimum guardband and transmission bandwidth configuration
   - ETSI 138 101-4 Part 4: Performance requirements
-    - [ETSI TS 138 101-4 V15.6.0 (2020-07)][138_101_4_V15.6.0]
+    - [ETSI TS 138 101-4 V17.9.0 (2023-07)][138_101_4_V17.9.0]
     - Sections of interest
       - Annex A (normative) - Measurement channels
 - ETSI 138 104 5G NR Base Station (BS) radio transmission and reception
-  - [ETSI TS 138 104 V15.8.0 (2020-01)][138_104_V15.8.0]
+  - [ETSI TX 138 104 V17.10.0 (2023-07)][138_104_V17.10.0]
   - Sections of interest
     - 5.3.2 - Transmission bandwidth configuration
     - 5.3.3 - Minimum guardband and transmission bandwidth configuration
     - 5.4.3 - Synchronization raster
 - ETSI 138 141 5G NR Base Station (BS) conformance testing
   - ETSI 138 141-1 Part 1: Conducted conformance testing
-    - [ETSI TS 138 141-1 V15.4.0 (2020-01)][138_141_1_V15.4.0]
+    - [ETSI TS 138 141-1 V17.10.0 (2023-07)][138_141_1_V17.10.0]
     - Sections of interest
       - 4.9.2 - Test models
   - ETSI 138 141-2 Part 2: Radiated conformance testing
-    - [ETSI TS 138 141-2 V15.4.0 (2020-01)][138_141_2_V15.4.0]
+    - [ETSI TS 138 141-2 V17.10.0 (2023-07)][138_141_2_V17.10.0]
 - ETSI 138 201 5G NR Physical layer General description
-  - [ETSI TS 138 201 V15.0.0 (2018-09)][138_201_V15.0.0]
+  - [ETSI TS 138 201 V17.0.0 (2022-05)][138_201_V17.0.0]
 - ETSI 138 211 5G NR Physical channels and modulation
-  - [ETSI TS 138 211 V16.2.0 (2020-07)][138_211_V16.2.0]
-  - [ETSI TS 138 211 V15.8.0 (2020-01)][138_211_V15.8.0]
+  - [ETSI TS 138 211 V17.5.0 (2023-07)][138_211_V17.5.0]
   - Sections of interest
     - 4.3 Frame structure
     - 5.3 OFDM baseband signal generation
     - 7.4.2 Synchronization signals
     - 7.4.3 SS/PBCH block
 - ETSI 138 212 5G NR Multiplexing and channel coding
-  - [ETSI TS 138 212 V15.8.0 (2020-01)][138_212_V15.8.0]
+  - [ETSI TS 138 212 V17.5.0 (2023-04)][138_212_V17.5.0]
 - ETSI 138 213 - 5G NR Physical layer procedures for control
-  - [ETSI TS 138 213 V15.8.0 (2020-01)][138_213_V15.8.0]
+  - [ETSI TS 138 213 V17.6.0 (2023-07)][138_213_V17.6.0]
   - Sections of interest
     - 4.1 - Cell search
     - Table 11.1.1-1: Slot formats for normal cyclic prefix
 - ETSI 138 331 5G NR Radio Resource Control (RRC) Protocol specification
-  - [ETSI TS 138 331 V15.10.0 (2020-07)][138_331_V15.10.0]
+  - [ETSI TS 138 331 V17.5.0 (2023-07)][138_331_V17.5.0]
 
-[138_101_1_V15.8.2]: https://www.etsi.org/deliver/etsi_ts/138100_138199/13810101/15.08.02_60/ts_13810101v150802p.pdf
-[138_101_1_V16.9.0]: https://www.etsi.org/deliver/etsi_ts/138100_138199/13810101/16.09.00_60/ts_13810101v160900p.pdf
-[138_101_4_V15.6.0]: https://www.etsi.org/deliver/etsi_ts/138100_138199/13810104/15.06.00_60/ts_13810104v150600p.pdf
-[138_104_V15.8.0]: https://www.etsi.org/deliver/etsi_ts/138100_138199/138104/15.08.00_60/ts_138104v150800p.pdf
-[138_141_1_V15.4.0]: https://www.etsi.org/deliver/etsi_ts/138100_138199/13814101/15.04.00_60/ts_13814101v150400p.pdf
-[138_141_2_V15.4.0]: https://www.etsi.org/deliver/etsi_ts/138100_138199/13814102/15.04.00_60/ts_13814102v150400p.pdf
-[138_201_V15.0.0]: https://www.etsi.org/deliver/etsi_ts/138200_138299/138201/15.00.00_60/ts_138201v150000p.pdf
-[138_211_V15.8.0]: https://www.etsi.org/deliver/etsi_ts/138200_138299/138211/15.08.00_60/ts_138211v150800p.pdf
-[138_211_V16.2.0]: https://www.etsi.org/deliver/etsi_ts/138200_138299/138211/16.02.00_60/ts_138211v160200p.pdf
-[138_212_V15.8.0]: https://www.etsi.org/deliver/etsi_ts/138200_138299/138212/15.08.00_60/ts_138212v150800p.pdf
-[138_213_V15.8.0]: https://www.etsi.org/deliver/etsi_ts/138200_138299/138213/15.08.00_60/ts_138213v150800p.pdf
-[138_331_V15.10.0]: https://www.etsi.org/deliver/etsi_ts/138300_138399/138331/15.10.00_60/ts_138331v151000p.pdf
+[138_101_1_V17.10.0]: https://www.etsi.org/deliver/etsi_ts/138100_138199/13810101/17.10.00_60/ts_13810101v171000p.pdf
+[138_101_4_V17.9.0]: https://www.etsi.org/deliver/etsi_ts/138100_138199/13810104/17.09.00_60/ts_13810104v170900p.pdf
+[138_104_V17.10.0]: https://www.etsi.org/deliver/etsi_ts/138100_138199/138104/17.10.00_60/ts_138104v171000p.pdf
+[138_141_1_V17.10.0]: https://www.etsi.org/deliver/etsi_ts/138100_138199/13814101/17.10.00_60/ts_13814101v171000p.pdf
+[138_141_2_V17.10.0]: https://www.etsi.org/deliver/etsi_ts/138100_138199/13814102/17.10.00_60/ts_13814102v171000p.pdf
+[138_201_V17.0.0]: https://www.etsi.org/deliver/etsi_ts/138200_138299/138201/17.00.00_60/ts_138201v170000p.pdf
+[138_211_V17.5.0]: https://www.etsi.org/deliver/etsi_ts/138200_138299/138211/17.05.00_60/ts_138211v170500p.pdf
+[138_212_V17.5.0]: https://www.etsi.org/deliver/etsi_ts/138200_138299/138212/17.05.00_60/ts_138212v170500p.pdf
+[138_213_V17.6.0]: https://www.etsi.org/deliver/etsi_ts/138200_138299/138213/17.06.00_60/ts_138213v170600p.pdf
+[138_331_V17.5.0]: https://www.etsi.org/deliver/etsi_ts/138300_138399/138331/17.05.00_60/ts_138331v170500p.pdf
 
 ### Other 5G Documentation
 
