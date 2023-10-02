@@ -27,7 +27,7 @@
     - Sections of interest
       - Annex A (normative) - Measurement channels
 - ETSI 138 104 5G NR Base Station (BS) radio transmission and reception
-  - [ETSI TX 138 104 V17.10.0 (2023-07)][138_104_V17.10.0]
+  - [ETSI TS 138 104 V17.10.0 (2023-07)][138_104_V17.10.0]
   - Sections of interest
     - 5.3.2 - Transmission bandwidth configuration
     - 5.3.3 - Minimum guardband and transmission bandwidth configuration
