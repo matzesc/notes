@@ -46,6 +46,7 @@
   - Sections of interest
     - 4.3 Frame structure
     - 5.3 OFDM baseband signal generation
+    - 6.3.3 Physical random-access channel
     - 7.4.2 Synchronization signals
     - 7.4.3 SS/PBCH block
 - ETSI 138 212 5G NR Multiplexing and channel coding
