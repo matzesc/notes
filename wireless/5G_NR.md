@@ -56,6 +56,10 @@
   - Sections of interest
     - 4.1 - Cell search
     - Table 11.1.1-1: Slot formats for normal cyclic prefix
+- ETSI 138 215 5G NR Physical layer measurements
+  - [ETSI TS 138 215 V17.3.0 (2023-04)][138_215_V17.3.0]
+  - Sections of interest
+    - 5.1.1 - SS reference signal received power (SS-RSRP)
 - ETSI 138 331 5G NR Radio Resource Control (RRC) Protocol specification
   - [ETSI TS 138 331 V17.5.0 (2023-07)][138_331_V17.5.0]
 
@@ -68,6 +72,7 @@
 [138_211_V17.5.0]: https://www.etsi.org/deliver/etsi_ts/138200_138299/138211/17.05.00_60/ts_138211v170500p.pdf
 [138_212_V17.5.0]: https://www.etsi.org/deliver/etsi_ts/138200_138299/138212/17.05.00_60/ts_138212v170500p.pdf
 [138_213_V17.6.0]: https://www.etsi.org/deliver/etsi_ts/138200_138299/138213/17.06.00_60/ts_138213v170600p.pdf
+[138_215_V17.3.0]: https://www.etsi.org/deliver/etsi_ts/138200_138299/138215/17.03.00_60/ts_138215v170300p.pdf
 [138_331_V17.5.0]: https://www.etsi.org/deliver/etsi_ts/138300_138399/138331/17.05.00_60/ts_138331v170500p.pdf
 
 ### Other 5G Documentation
