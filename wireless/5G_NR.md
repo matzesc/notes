@@ -83,6 +83,9 @@
 - [5G Mobile Networks: A Systems Approach](https://5g.systemsapproach.org/)
 - [5G/NR - Techplayon](http://www.techplayon.com/5gnr/)
 - [How LTE Stuff Works?](http://howltestuffworks.blogspot.com/)
+- [5G-NR tutorials and call flows](https://eventhelix.com/5g/)
+  - [5G-NR Non-standalone access call flows](https://eventhelix.com/5g/non-standalone-access-en-dc/)
+    - [LTE eNB - 5G gNB dual connectivity (EN-DC)](https://eventhelix.com/5g/non-standalone-access-en-dc/en-dc-secondary-node-addition.pdf)
 
 ## O-RAN (Open Radio Access Network)
 
