@@ -32,6 +32,10 @@
     - 5.3.2 - Transmission bandwidth configuration
     - 5.3.3 - Minimum guardband and transmission bandwidth configuration
     - 5.4.3 - Synchronization raster
+- ETSI 138 133 5G NR Requirements for support of radio resource management
+  - [ETSI TS 138 133 V17.11.0 (2023-10)][138_133_V17.11.0]
+  - Section of interest
+    - 7.3 Timing advance
 - ETSI 138 141 5G NR Base Station (BS) conformance testing
   - ETSI 138 141-1 Part 1: Conducted conformance testing
     - [ETSI TS 138 141-1 V17.10.0 (2023-07)][138_141_1_V17.10.0]
@@ -66,6 +70,7 @@
 [138_101_1_V17.10.0]: https://www.etsi.org/deliver/etsi_ts/138100_138199/13810101/17.10.00_60/ts_13810101v171000p.pdf
 [138_101_4_V17.9.0]: https://www.etsi.org/deliver/etsi_ts/138100_138199/13810104/17.09.00_60/ts_13810104v170900p.pdf
 [138_104_V17.10.0]: https://www.etsi.org/deliver/etsi_ts/138100_138199/138104/17.10.00_60/ts_138104v171000p.pdf
+[138_133_V17.11.0]: https://www.etsi.org/deliver/etsi_ts/138100_138199/138133/17.11.00_60/ts_138133v171100p.pdf
 [138_141_1_V17.10.0]: https://www.etsi.org/deliver/etsi_ts/138100_138199/13814101/17.10.00_60/ts_13814101v171000p.pdf
 [138_141_2_V17.10.0]: https://www.etsi.org/deliver/etsi_ts/138100_138199/13814102/17.10.00_60/ts_13814102v171000p.pdf
 [138_201_V17.0.0]: https://www.etsi.org/deliver/etsi_ts/138200_138299/138201/17.00.00_60/ts_138201v170000p.pdf
